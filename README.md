@@ -1,4 +1,4 @@
-# Strand background pack — v32
+# Strand background pack — v34
 
 Artwork for 324 Strand folders, with focus-driven and full-screen versions.
 Browse the gallery at https://wepiii2.github.io/strand-backgrounds/.
@@ -36,4 +36,4 @@ with Strand, Trellis, or the brands shown.
 The Film Collections shelf adds 11 genre-based poster collages, each available
 as a 2400×720 focused hero or a 1920×1080 full-screen hero.
 
-Version 32 replaces all 11 Film Collections heroes with continuous angled collages in both sizes. Original shelf icons are preserved.
+Version 34 uses consistent solid center title bands in both sizes, rebuilds focused collages as continuous panels, repairs Sci-Fi, and fills out Family and Fantasy. Original shelf icons are preserved.
