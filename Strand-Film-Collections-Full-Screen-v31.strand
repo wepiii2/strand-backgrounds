@@ -1,0 +1,2620 @@
+{
+  "version": 1,
+  "shelves": [
+    {
+      "style": "collections_row",
+      "isEnabled": true,
+      "source": {
+        "group": {
+          "_0": {
+            "contentSources": [
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bad Boys Collection",
+                        "collectionId": 14890
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Die Hard Collection",
+                        "collectionId": 1570
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Dirty Harry Collection",
+                        "collectionId": 10456
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Fast and the Furious Collection",
+                        "collectionId": 9485
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "James Bond Collection",
+                        "collectionId": 645
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "John Wick Collection",
+                        "collectionId": 404609
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Kingsman Collection",
+                        "collectionId": 391860
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Lethal Weapon Collection",
+                        "collectionId": 945
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Mission: Impossible Collection",
+                        "collectionId": 87359
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ocean's Collection",
+                        "collectionId": 304
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rambo Collection",
+                        "collectionId": 5039
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rocky Collection",
+                        "collectionId": 1575
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sicario Collection",
+                        "collectionId": 496796
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Bourne Collection",
+                        "collectionId": 31562
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Dark Knight Collection",
+                        "collectionId": 263
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Equalizer Collection",
+                        "collectionId": 523855
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Expendables Collection",
+                        "collectionId": 126125
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Karate Kid Collection",
+                        "collectionId": 8580
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Transporter Collection",
+                        "collectionId": 9518
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Top Gun Collection",
+                        "collectionId": 531330
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "xXx Collection",
+                        "collectionId": 52785
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "G.I. Joe (Live-Action) Collection",
+                        "collectionId": 135468
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Men in Black Collection",
+                        "collectionId": 86055
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ride Along Collection",
+                        "collectionId": 376650
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Taken Collection",
+                        "collectionId": 135483
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Avengers Collection",
+                        "collectionId": 86311
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Hitman's Bodyguard Collection",
+                        "collectionId": 608101
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Raid Collection",
+                        "collectionId": 257960
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Jack Ryan Collection",
+                        "collectionId": 192492
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Has Fallen Collection",
+                        "collectionId": 386534
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Extraction Collection",
+                        "collectionId": 735127
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Johnny English Collection",
+                        "collectionId": 86117
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Spy Kids Collection",
+                        "collectionId": 86486
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Shaft Collection",
+                        "collectionId": 495
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Escape Plan Collection",
+                        "collectionId": 525891
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Death Wish Collection",
+                        "collectionId": 10457
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Speed Collection",
+                        "collectionId": 43064
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Meg Collection",
+                        "collectionId": 742536
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ip Man Collection",
+                        "collectionId": 70068
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Police Story Collection",
+                        "collectionId": 269098
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Mortal Kombat Collection",
+                        "collectionId": 9818
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Tomb Raider Collection",
+                        "collectionId": 2467
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Kick-Ass Collection",
+                        "collectionId": 179892
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Hellboy Collection",
+                        "collectionId": 17235
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Crow Collection",
+                        "collectionId": 9436
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Conan the Barbarian Collection",
+                        "collectionId": 43055
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ong Bak Collection",
+                        "collectionId": 94589
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Alien vs. Predator Collection",
+                        "collectionId": 115762
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Chronicles of Riddick Collection",
+                        "collectionId": 2794
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Batman Collection (1989-1997)",
+                        "collectionId": 120794
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Superman Classic Collection",
+                        "collectionId": 8537
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Teenage Mutant Ninja Turtles Collection",
+                        "collectionId": 401562
+                      }
+                    }
+                  }
+                ],
+                "title": "Action Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/action/v2/action-cover.png",
+                "tileShape": "poster",
+                "id": "5251C2C6-D897-4A8D-B29C-BBF4B3597845",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/5251c2c6-d897-4a8d-b29c-bbf4b3597845.jpg?v=86ee9d486bc3-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ace Ventura Collection",
+                        "collectionId": 3167
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "American Pie Collection",
+                        "collectionId": 2806
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Anchorman Collection",
+                        "collectionId": 93791
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Austin Powers Collection",
+                        "collectionId": 1006
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Big Momma's House Collection",
+                        "collectionId": 44979
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bridget Jones Collection",
+                        "collectionId": 8936
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Clerks Collection",
+                        "collectionId": 182813
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Daddy's Home Collection",
+                        "collectionId": 473971
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jump Street Collection",
+                        "collectionId": 212562
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Legally Blonde Collection",
+                        "collectionId": 86024
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Meet the Parents Collection",
+                        "collectionId": 51509
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "National Lampoon's Vacation Collection",
+                        "collectionId": 108693
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Now You See Me Collection",
+                        "collectionId": 382685
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Pitch Perfect Collection",
+                        "collectionId": 306031
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rush Hour Collection",
+                        "collectionId": 90863
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Scary Movie Collection",
+                        "collectionId": 4246
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Hangover Collection",
+                        "collectionId": 86119
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Wayne's World Collection",
+                        "collectionId": 8979
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Zoolander Collection",
+                        "collectionId": 352789
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bring It On Collection",
+                        "collectionId": 430186
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Grown Ups Collection",
+                        "collectionId": 180546
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Horrible Bosses Collection",
+                        "collectionId": 280588
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Major League Collection",
+                        "collectionId": 97771
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Johnny English Collection",
+                        "collectionId": 86117
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Pink Panther (Original)",
+                        "collectionId": 937
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Pink Panther (Reboot)",
+                        "collectionId": 130440
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Police Story Collection",
+                        "collectionId": 269098
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Kick-Ass Collection",
+                        "collectionId": 179892
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Dumb and Dumber Collection",
+                        "collectionId": 96665
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Naked Gun Collection",
+                        "collectionId": 37139
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Police Academy Collection",
+                        "collectionId": 9338
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Harold & Kumar Collection",
+                        "collectionId": 30663
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bill & Ted Collection",
+                        "collectionId": 91746
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Look Who's Talking Collection",
+                        "collectionId": 9521
+                      }
+                    }
+                  }
+                ],
+                "title": "Comedy Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/comedy/v2/comedy-cover.png",
+                "tileShape": "poster",
+                "id": "2D4ACE9E-472B-43A5-8100-C5BEE51F9067",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/2d4ace9e-472b-43a5-8100-c5bee51f9067.jpg?v=ba95ba373f8f-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ocean's Collection",
+                        "collectionId": 304
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bad Boys Collection",
+                        "collectionId": 14890
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Lethal Weapon Collection",
+                        "collectionId": 945
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Beverly Hills Cop Collection",
+                        "collectionId": 85861
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Boondock Saints Collection",
+                        "collectionId": 87186
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rush Hour Collection",
+                        "collectionId": 90863
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Pink Panther (Original)",
+                        "collectionId": 937
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Shaft Collection",
+                        "collectionId": 495
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Death Wish Collection",
+                        "collectionId": 10457
+                      }
+                    }
+                  }
+                ],
+                "title": "Crime Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/crime/v2/crime-cover.png",
+                "tileShape": "poster",
+                "id": "5D961107-DFED-4BA0-9194-8F69B51FD770",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/5d961107-dfed-4ba0-9194-8f69b51fd770.jpg?v=218dc05cac25-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Godfather Collection",
+                        "collectionId": 230
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Creed Collection",
+                        "collectionId": 553717
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Magic Mike Collection",
+                        "collectionId": 328247
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Step Up Collection",
+                        "collectionId": 86092
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Fifty Shades Collection",
+                        "collectionId": 344830
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rocky Collection",
+                        "collectionId": 1575
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Goal! Collection",
+                        "collectionId": 110177
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jack Reacher Collection",
+                        "collectionId": 403374
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Mighty Ducks Collection",
+                        "collectionId": 10709
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Before Trilogy",
+                        "collectionId": 123800
+                      }
+                    }
+                  }
+                ],
+                "title": "Drama Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/drama/v2/drama-cover.png",
+                "tileShape": "poster",
+                "id": "D37F6116-7991-4817-92BD-5E2636C1032A",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/d37f6116-7991-4817-92bd-5e2636c1032a.jpg?v=ff76706a34ed-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Alvin and the Chipmunks Collection",
+                        "collectionId": 167613
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Cars Collection",
+                        "collectionId": 87118
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Despicable Me Collection",
+                        "collectionId": 86066
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Diary of a Wimpy Kid Collection",
+                        "collectionId": 86110
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Finding Nemo Collection",
+                        "collectionId": 137697
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Home Alone Collection",
+                        "collectionId": 9888
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Hotel Transylvania Collection",
+                        "collectionId": 185103
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "How to Train Your Dragon Collection",
+                        "collectionId": 89137
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ice Age Collection",
+                        "collectionId": 8354
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Kung Fu Panda Collection",
+                        "collectionId": 77816
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Madagascar Collection",
+                        "collectionId": 14740
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Monsters, Inc. Collection",
+                        "collectionId": 137696
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Paddington Collection",
+                        "collectionId": 488924
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Scooby-Doo Collection",
+                        "collectionId": 86860
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Shrek Collection",
+                        "collectionId": 2150
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sing Collection",
+                        "collectionId": 544670
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Spider-Man: Spider-Verse Collection",
+                        "collectionId": 573436
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Addams Family (Animated) Collection",
+                        "collectionId": 750822
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Boss Baby Collection",
+                        "collectionId": 519457
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Incredibles Collection",
+                        "collectionId": 468222
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Lego Movie Collection",
+                        "collectionId": 325470
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Secret Life of Pets Collection",
+                        "collectionId": 427084
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Toy Story Collection",
+                        "collectionId": 10194
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Trolls Holiday Collection",
+                        "collectionId": 1184152
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Wreck-It Ralph Collection",
+                        "collectionId": 404825
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Cloudy with a Chance of Meatballs Collection",
+                        "collectionId": 177467
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Detective Conan Collection",
+                        "collectionId": 39199
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Dragon Ball Collection",
+                        "collectionId": 386410
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Evangelion Collection",
+                        "collectionId": 210303
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Inside Out Collection",
+                        "collectionId": 1022790
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Minions Collection",
+                        "collectionId": 544669
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "My Hero Academia Collection",
+                        "collectionId": 1189668
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Naruto Collection",
+                        "collectionId": 23616
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "One Piece Collection",
+                        "collectionId": 23456
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Spy Kids Collection",
+                        "collectionId": 86486
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Lion King Collection",
+                        "collectionId": 94032
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Aladdin Collection",
+                        "collectionId": 86027
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Beauty and the Beast Collection",
+                        "collectionId": 153010
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Little Mermaid Collection",
+                        "collectionId": 33085
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Mulan Collection",
+                        "collectionId": 87236
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Land Before Time Collection",
+                        "collectionId": 19163
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Teenage Mutant Ninja Turtles Collection",
+                        "collectionId": 401562
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Open Season Collection",
+                        "collectionId": 66761
+                      }
+                    }
+                  }
+                ],
+                "title": "Family & Animation Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/family/v2/family-cover.png",
+                "tileShape": "poster",
+                "id": "5553D99C-5021-4E18-9337-1774FE9DE833",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/5553d99c-5021-4e18-9337-1774fe9de833.jpg?v=e99646e9cf5a-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Fantastic Beasts Collection",
+                        "collectionId": 435259
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ghostbusters Collection",
+                        "collectionId": 2980
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Harry Potter Collection",
+                        "collectionId": 1241
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Indiana Jones Collection",
+                        "collectionId": 84
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jumanji Collection",
+                        "collectionId": 495527
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Lord of the Rings Collection",
+                        "collectionId": 119
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "National Treasure Collection",
+                        "collectionId": 52984
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Night at the Museum Collection",
+                        "collectionId": 85943
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Percy Jackson Collection",
+                        "collectionId": 179919
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Pirates of the Caribbean Collection",
+                        "collectionId": 295
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Chronicles of Narnia Collection",
+                        "collectionId": 420
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Hobbit Collection",
+                        "collectionId": 121938
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Maze Runner Collection",
+                        "collectionId": 295130
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Mummy Collection",
+                        "collectionId": 1733
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Twilight Collection",
+                        "collectionId": 33514
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Clash of the Titans Collection",
+                        "collectionId": 86780
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Demon Slayer Collection",
+                        "collectionId": 925155
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Highlander Collection",
+                        "collectionId": 8050
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Pokémon Collection",
+                        "collectionId": 34055
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Ted Collection",
+                        "collectionId": 266672
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Mortal Kombat Collection",
+                        "collectionId": 9818
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Hellboy Collection",
+                        "collectionId": 17235
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Crow Collection",
+                        "collectionId": 9436
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Conan the Barbarian Collection",
+                        "collectionId": 43055
+                      }
+                    }
+                  }
+                ],
+                "title": "Fantasy Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/fantasy/v2/fantasy-cover.png",
+                "tileShape": "poster",
+                "id": "7EFB5C82-E19A-48C3-8F8D-17C28C169A5C",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/7efb5c82-e19a-48c3-8f8d-17c28c169a5c.jpg?v=761cc5545a2e-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "A Nightmare on Elm Street Collection",
+                        "collectionId": 8581
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "A Quiet Place Collection",
+                        "collectionId": 521226
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Blade Collection",
+                        "collectionId": 735
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Child's Play Collection",
+                        "collectionId": 10455
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Evil Dead Collection",
+                        "collectionId": 1960
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Final Destination Collection",
+                        "collectionId": 8864
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Friday the 13th Collection",
+                        "collectionId": 9735
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Halloween Collection",
+                        "collectionId": 91361
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Hannibal Lecter Collection",
+                        "collectionId": 9743
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Hellraiser Collection",
+                        "collectionId": 8917
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Insidious Collection",
+                        "collectionId": 228446
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "It Collection",
+                        "collectionId": 477962
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jaws Collection",
+                        "collectionId": 2366
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Paranormal Activity Collection",
+                        "collectionId": 41437
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Poltergeist Collection",
+                        "collectionId": 10453
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Resident Evil Collection",
+                        "collectionId": 17255
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Saw Collection",
+                        "collectionId": 656
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Scream Collection",
+                        "collectionId": 2602
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Conjuring Collection",
+                        "collectionId": 313086
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Exorcist Collection",
+                        "collectionId": 12263
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Grudge Collection",
+                        "collectionId": 1974
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Omen Collection",
+                        "collectionId": 10919
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Purge Collection",
+                        "collectionId": 256322
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Ring Collection",
+                        "collectionId": 14563
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Tremors Collection",
+                        "collectionId": 91799
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Underworld Collection",
+                        "collectionId": 2326
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "V/H/S Collection",
+                        "collectionId": 207621
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "28 Days/Weeks/Years Later Collection",
+                        "collectionId": 1565
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Annabelle Collection",
+                        "collectionId": 402074
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jeepers Creepers Collection",
+                        "collectionId": 94899
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Texas Chainsaw Massacre Collection",
+                        "collectionId": 111751
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Nun Collection",
+                        "collectionId": 968052
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Zombieland Collection",
+                        "collectionId": 537982
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Psycho Collection",
+                        "collectionId": 119674
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Fly Collection",
+                        "collectionId": 123213
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Candyman Collection",
+                        "collectionId": 98580
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sinister Collection",
+                        "collectionId": 357173
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Silent Hill Collection",
+                        "collectionId": 64748
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Phantasm Collection",
+                        "collectionId": 47770
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Amityville Collection",
+                        "collectionId": 397842
+                      }
+                    }
+                  }
+                ],
+                "title": "Horror Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/horror/v2/horror-cover.png",
+                "tileShape": "poster",
+                "id": "1093E3B9-F576-4ABB-BD0F-662073A234D8",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/1093e3b9-f576-4abb-bd0f-662073a234d8.jpg?v=14fdc9782f7e-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Knives Out Collection",
+                        "collectionId": 722971
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Robert Langdon Collection",
+                        "collectionId": 115776
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sherlock Holmes Collection",
+                        "collectionId": 102322
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Enola Holmes Collection",
+                        "collectionId": 829314
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Now You See Me Collection",
+                        "collectionId": 382685
+                      }
+                    }
+                  }
+                ],
+                "title": "Mystery Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/mystery/v2/mystery-cover.png",
+                "tileShape": "poster",
+                "id": "99F615CF-BD5D-46AA-A829-9D4630691078",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/99f615cf-bd5d-46aa-a829-9d4630691078.jpg?v=cc5e6c293e1f-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Alien Collection",
+                        "collectionId": 8091
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Back to the Future Collection",
+                        "collectionId": 264
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Blade Runner Collection",
+                        "collectionId": 422837
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Divergent Collection",
+                        "collectionId": 283579
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Dune Collection",
+                        "collectionId": 726871
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Godzilla Collection",
+                        "collectionId": 535313
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Guardians of the Galaxy Collection",
+                        "collectionId": 284433
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jurassic Park Collection",
+                        "collectionId": 328
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "King Kong (1976) Collection",
+                        "collectionId": 135498
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Mad Max Collection",
+                        "collectionId": 8945
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Man of Steel Collection",
+                        "collectionId": 209131
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Pacific Rim Collection",
+                        "collectionId": 363369
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Planet of the Apes (Original) Collection",
+                        "collectionId": 1709
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Predator Collection",
+                        "collectionId": 399
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "RoboCop Collection",
+                        "collectionId": 5547
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Spider-Man Collection",
+                        "collectionId": 556
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Star Trek: Alternate Reality Collection",
+                        "collectionId": 115575
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Star Wars Collection",
+                        "collectionId": 10
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Starship Troopers Collection",
+                        "collectionId": 10522
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Terminator Collection",
+                        "collectionId": 528
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Hunger Games Collection",
+                        "collectionId": 131635
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Matrix Collection",
+                        "collectionId": 2344
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Transformers Collection",
+                        "collectionId": 8650
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "TRON Collection",
+                        "collectionId": 63043
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "X-Men Collection",
+                        "collectionId": 748
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Avatar Collection",
+                        "collectionId": 87096
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Planet of the Apes (Reboot) Collection",
+                        "collectionId": 173710
+                      }
+                    }
+                  },
+                  {
+                    "traktList": {
+                      "_0": {
+                        "listSlug": "24073279",
+                        "listName": "Cloverfield collection",
+                        "username": "",
+                        "listId": "24073279",
+                        "itemCount": 0,
+                        "isPublic": true
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Meg Collection",
+                        "collectionId": 742536
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Star Trek: The Original Series Movies",
+                        "collectionId": 151
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Star Trek: The Next Generation Movies",
+                        "collectionId": 115570
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Alien vs. Predator Collection",
+                        "collectionId": 115762
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Chronicles of Riddick Collection",
+                        "collectionId": 2794
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Fly Collection",
+                        "collectionId": 123213
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Batman Collection (1989-1997)",
+                        "collectionId": 120794
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Superman Classic Collection",
+                        "collectionId": 8537
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Bill & Ted Collection",
+                        "collectionId": 91746
+                      }
+                    }
+                  }
+                ],
+                "title": "Sci-Fi Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/sci-fi/v2/sci-fi-cover.png",
+                "tileShape": "poster",
+                "id": "87704EC7-5B12-46F8-A733-8BC728767E29",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/87704ec7-5b12-46f8-a733-8bc728767e29.jpg?v=5d96a83cf119-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Hannibal Lecter Collection",
+                        "collectionId": 9743
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Escape Room Collection",
+                        "collectionId": 769423
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Don't Breathe Collection",
+                        "collectionId": 748919
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sicario Collection",
+                        "collectionId": 496796
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Purge Collection",
+                        "collectionId": 256322
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Final Destination Collection",
+                        "collectionId": 8864
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "A Quiet Place Collection",
+                        "collectionId": 521226
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Eastrail 177 Trilogy",
+                        "collectionId": 1701237
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Jack Ryan Collection",
+                        "collectionId": 192492
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Has Fallen Collection",
+                        "collectionId": 386534
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Extraction Collection",
+                        "collectionId": 735127
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Basic Instinct Collection",
+                        "collectionId": 86336
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Psycho Collection",
+                        "collectionId": 119674
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Escape Plan Collection",
+                        "collectionId": 525891
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Speed Collection",
+                        "collectionId": 43064
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Meg Collection",
+                        "collectionId": 742536
+                      }
+                    }
+                  }
+                ],
+                "title": "Thriller Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/thriller/v2/thriller-cover.png",
+                "tileShape": "poster",
+                "id": "181BBE54-E934-445A-BE8C-0C0444BD7E44",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/181bbe54-e934-445a-be8c-0c0444bd7e44.jpg?v=fb17cd21f8ec-v31"
+              },
+              {
+                "hideTitle": true,
+                "sources": [
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Rambo Collection",
+                        "collectionId": 5039
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Sniper Collection",
+                        "collectionId": 14246
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Jarhead Collection",
+                        "collectionId": 285564
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Behind Enemy Lines Collection",
+                        "collectionId": 98513
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "Missing in Action Collection",
+                        "collectionId": 46512
+                      }
+                    }
+                  },
+                  {
+                    "tmdbCollection": {
+                      "_0": {
+                        "sortBy": "original",
+                        "name": "The Dirty Dozen Collection",
+                        "collectionId": 124492
+                      }
+                    }
+                  }
+                ],
+                "title": "War Collections",
+                "coverImageURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/film-collections/war/v2/war-cover.png",
+                "tileShape": "poster",
+                "id": "EAE5137C-C2A1-4C51-9F9D-20DF02EBB73B",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/full/eae5137c-c2a1-4c51-9f9d-20df02ebb73b.jpg?v=2ab3542d25d6-v31"
+              }
+            ],
+            "tileShape": "poster",
+            "hideTitle": false,
+            "title": "Film Collections"
+          }
+        }
+      },
+      "id": "7AA63577-6B15-4496-9B0E-6E4566203B93",
+      "title": "Film Collections",
+      "sortOrder": 9
+    }
+  ]
+}
