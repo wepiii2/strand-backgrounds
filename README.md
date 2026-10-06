@@ -1,4 +1,4 @@
-# Strand background pack — v31
+# Strand background pack — v32
 
 Artwork for 324 Strand folders, with focus-driven and full-screen versions.
 Browse the gallery at https://wepiii2.github.io/strand-backgrounds/.
@@ -10,7 +10,7 @@ address for new setups; public artwork requests no longer use the old art server
 This public repository contains only artwork, its source catalog, and helper scripts.
 It contains no personal Strand export, addon URLs, or credentials.
 
-Download `Strand-Backgrounds-Self-Host-v6.zip` from the site, unzip it, then run:
+Download `Strand-Backgrounds-Self-Host-v7.zip` from the site, unzip it, then run:
 
 ```sh
 python3 download_images.py --variant focus
@@ -35,3 +35,5 @@ with Strand, Trellis, or the brands shown.
 
 The Film Collections shelf adds 11 genre-based poster collages, each available
 as a 2400×720 focused hero or a 1920×1080 full-screen hero.
+
+Version 32 replaces all 11 Film Collections heroes with continuous angled collages in both sizes. Original shelf icons are preserved.
