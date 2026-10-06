@@ -1,6 +1,6 @@
-# Strand background pack — v29
+# Strand background pack — v30
 
-Artwork for 312 Strand folders, with focus-driven and full-screen versions.
+Artwork for 313 Strand folders, with focus-driven and full-screen versions.
 Browse the gallery at https://wepiii2.github.io/strand-backgrounds/.
 
 Existing public `strand-art.otterschickens.com` image and download links redirect
@@ -10,7 +10,7 @@ address for new setups; public artwork requests no longer use the old art server
 This public repository contains only artwork, its source catalog, and helper scripts.
 It contains no personal Strand export, addon URLs, or credentials.
 
-Download `Strand-Backgrounds-Self-Host-v4.zip` from the site, unzip it, then run:
+Download `Strand-Backgrounds-Self-Host-v5.zip` from the site, unzip it, then run:
 
 ```sh
 python3 download_images.py --variant focus

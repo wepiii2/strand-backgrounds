@@ -1822,15 +1822,15 @@
   },
   {
     "group": "Movie Collections",
-    "title": "James Bond",
+    "title": "James Bond 007",
     "id": "EDCE8DFD-ED84-4B02-AB78-4500A9ED6DCE",
-    "sourceURL": "https://image.tmdb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg",
-    "sourceCredit": "TMDB collection 645",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:007_Logo.svg",
+    "sourceCredit": "Bond gun-barrel art with official 007 vector mark",
     "focusFile": "focus/edce8dfd-ed84-4b02-ab78-4500a9ed6dce.jpg",
     "fullFile": "full/edce8dfd-ed84-4b02-ab78-4500a9ed6dce.jpg",
     "logoSourceURL": "https://commons.wikimedia.org/wiki/File:007_Logo.svg",
-    "focusSHA256": "f412f2e2439cd333148c8ff1b0ac677b9cc5cb8f2f11f3e248e54a3327cecfbe",
-    "fullSHA256": "a21ca043b57c16ebe619843fbe02a456001d9399ef2b9877d9118df3cdc737e8"
+    "focusSHA256": "550250324d4c956e14c22131a780aa5989564c26d0d6e47b396fb103b8c3bc57",
+    "fullSHA256": "cb1c78ff66b3355c7df3df949dc1f3261b97f57831ea371b78a71b35d1e0ced5"
   },
   {
     "group": "Movie Collections",
@@ -2052,13 +2052,13 @@
     "group": "Movie Collections",
     "title": "Marvel Cinematic Universe",
     "id": "9D41C934-BDB6-4590-8C04-3B826F4EBC9D",
-    "sourceURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/89d3f40e06ed17f406f0b710cb18586f5423a462/collections/The_Avengers_Collection/The_Avengers_Collection_Backdrop.jpg",
-    "sourceCredit": "nuvio-assets",
+    "sourceURL": "https://www.themoviedb.org/movie/299534-avengers-endgame/images/backdrops",
+    "sourceCredit": "Avengers: Endgame ensemble",
     "focusFile": "focus/9d41c934-bdb6-4590-8c04-3b826f4ebc9d.jpg",
     "fullFile": "full/9d41c934-bdb6-4590-8c04-3b826f4ebc9d.jpg",
     "logoSourceURL": "https://commons.wikimedia.org/wiki/File:Marvel_Studios_logo.svg",
-    "focusSHA256": "6fa58233b815797466287fe9c4aa557cdfac95af401a786ecef1d330b238cf9d",
-    "fullSHA256": "0a59b529c7342a4b11231190c55738967eb9a260b64f84ba4acd84aff8421d65"
+    "focusSHA256": "fddd5fcf616053cd43ab3073c50af5566b519ce375da62c56b9133089bc46ab1",
+    "fullSHA256": "5e0a017dfc7eb72a64de4342e00e3e6bbfd1eeaa9dff89ec80834b30abbd9905"
   },
   {
     "group": "Movie Collections",
@@ -2158,15 +2158,15 @@
   },
   {
     "group": "Movie Collections",
-    "title": "National Lampoon's Vacation",
+    "title": "National Lampoon’s Vacation",
     "id": "84E100ED-22F3-496F-9ACC-5555253A8A55",
-    "sourceURL": "https://image.tmdb.org/t/p/original/9dJ4bYLaFRnpvyDVWKfgHoNpQ5f.jpg",
-    "sourceCredit": "TMDB collection 108693",
+    "sourceURL": "https://www.themoviedb.org/movie/11153-national-lampoons-vacation/images/backdrops",
+    "sourceCredit": "Vacation film still",
     "focusFile": "focus/84e100ed-22f3-496f-9acc-5555253a8a55.jpg",
     "fullFile": "full/84e100ed-22f3-496f-9acc-5555253a8a55.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/cS90NJrklhLO21D6VjWpMV4528h.png",
-    "focusSHA256": "bd6f7cee2634ddd6e69191e086b78354aa5ce6a4decf7ca44f7398620782237c",
-    "fullSHA256": "c224af05a142339528cf0c4b5a470e23aac3b40efb67662d2be5dd1e4a11c786"
+    "focusSHA256": "8d6baa1023c1687860af52bd31afc9f3df2697e6d3f57df6a8618b0c62e5d877",
+    "fullSHA256": "c529f039bf455c61fd47a22bd2b14d0cb604b8e4c59f58652cfc5d81c06a6dc9"
   },
   {
     "group": "Movie Collections",
@@ -2206,15 +2206,15 @@
   },
   {
     "group": "Movie Collections",
-    "title": "Ocean's",
+    "title": "The Ocean's Trilogy",
     "id": "491953FB-83A6-4B61-B9E6-2B3D532AE93E",
-    "sourceURL": "https://image.tmdb.org/t/p/original/7WUSrq8DqSkVgv1vmhBvav5bPoB.jpg",
-    "sourceCredit": "TMDB collection 304",
+    "sourceURL": "https://www.themoviedb.org/collection/304-oceans-collection/images/backdrops",
+    "sourceCredit": "Ocean’s film ensemble",
     "focusFile": "focus/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "fullFile": "full/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/p8OAQOQWdTjuGsBJCleal3n6Bfk.png",
-    "focusSHA256": "f5f53ed0a6708f683725be9aa6227ae14f9b6879f3cbbf350bbc4be5dfb56d46",
-    "fullSHA256": "a6b532c5adb9bc2df585b6aa444ac3dbbe74b1b92169bf8413a88d210de6179d"
+    "focusSHA256": "0ff694fb3c0f27e74502d53605d6752b7679140da8e58f4403534ab272e45c12",
+    "fullSHA256": "d0f282574497b97c0e734da1532655b6434bc72ca628555b5bbbe8fff1d639c4"
   },
   {
     "group": "Movie Collections",
@@ -2640,13 +2640,13 @@
     "group": "Movie Collections",
     "title": "Superman",
     "id": "C5113C27-2AF6-427C-9101-E370F88EB62A",
-    "sourceURL": "https://image.tmdb.org/t/p/original/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg",
-    "sourceCredit": "TMDB collection 8537",
+    "sourceURL": "https://www.themoviedb.org/movie/1061474-superman/images/backdrops",
+    "sourceCredit": "Superman (2025) ensemble",
     "focusFile": "focus/c5113c27-2af6-427c-9101-e370f88eb62a.jpg",
     "fullFile": "full/c5113c27-2af6-427c-9101-e370f88eb62a.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/oRXlsX6MoZBydSoMRfW3AKRd3lJ.png",
-    "focusSHA256": "c3f8ba0a35959b5b6a952f023debcae5329e7434a3f67d9617de8b73b9948ccd",
-    "fullSHA256": "4136e6e48650671569afba830ad35df1aed1c2a92e304618e41d78a194cc4eb4"
+    "focusSHA256": "5beba59b77a7db870ebc936b1d1cf1eaf95c9b824740c445b8871049f94a89c5",
+    "fullSHA256": "85ab9fb5f8e6260622f2902bf39d0f1336c40bb17a20016e016c4502df73fd74"
   },
   {
     "group": "Movie Collections",
@@ -2938,15 +2938,15 @@
   },
   {
     "group": "Movie Collections",
-    "title": "The Lego Movie",
+    "title": "The LEGO Movie",
     "id": "1BBD3079-8426-425A-93AC-D5D1094945E2",
-    "sourceURL": "https://image.tmdb.org/t/p/original/vAyMNou7M2SOXjPIzLhltTvAqD1.jpg",
-    "sourceCredit": "TMDB collection 325470",
+    "sourceURL": "https://www.themoviedb.org/movie/137106-the-lego-movie/images/backdrops",
+    "sourceCredit": "The LEGO Movie still and official-style film wordmark",
     "focusFile": "focus/1bbd3079-8426-425a-93ac-d5d1094945e2.jpg",
     "fullFile": "full/1bbd3079-8426-425a-93ac-d5d1094945e2.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
-    "focusSHA256": "bfccaba17b30bc032a3457c0fab3d8ed868d09656838c63a1cf6b0f0aad2eba2",
-    "fullSHA256": "4d2bfa633648ff5ee34c904995cd3ba8dce03b75a89b92067be21efb59efa881"
+    "focusSHA256": "a2ce92434a9ffc105df143bb25370b574ba75440efcbcfe2f80850846bb80f9c",
+    "fullSHA256": "a521420875c2effa3fea7c75ab45959b88c49ef258fd7d8941c554c2317f9059"
   },
   {
     "group": "Movie Collections",
@@ -3240,13 +3240,13 @@
     "group": "Movie Collections",
     "title": "X-Men",
     "id": "B50AC8E9-78AF-48A7-B6C5-3C4B31EC4BC5",
-    "sourceURL": "https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg",
-    "sourceCredit": "TMDB collection 748",
+    "sourceURL": "https://www.themoviedb.org/collection/748-x-men-collection/images/backdrops",
+    "sourceCredit": "X-Men film ensemble",
     "focusFile": "focus/b50ac8e9-78af-48a7-b6c5-3c4b31ec4bc5.jpg",
     "fullFile": "full/b50ac8e9-78af-48a7-b6c5-3c4b31ec4bc5.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/bfUbOGdmttSCvar958KkUJlEOiQ.png",
-    "focusSHA256": "a303d9f5c7a266d2fb02abb76ed7f0568f37df8ec381d7ff13f4730fc251cf05",
-    "fullSHA256": "132b37add5848f9dd010504257436c7ca05353103259f8c9134235aa3155e072"
+    "focusSHA256": "f638b41f63c04857c68765c419d1c455a0ba2a43d6fd43ba7e60dc72f12d9601",
+    "fullSHA256": "3a86973dfe798cda11bd133c0a8154c100896798ad2b7dc9fd1cee519f370a27"
   },
   {
     "group": "Movie Collections",
@@ -3283,6 +3283,18 @@
     "logoSourceURL": "https://image.tmdb.org/t/p/original/kgMxsJm4fdiFCzzKElood8WXb7c.png",
     "focusSHA256": "70b5d49a0a83a4170acbb472111fae0d3c596d83d144ee5689123b1a896c7fbb",
     "fullSHA256": "fbef3fa169c27f76b49b2a6ef2ad0df6b97b4fcddc13d2e18da4c5eebeb33e0d"
+  },
+  {
+    "group": "Movie Collections",
+    "title": "Deadpool Collection",
+    "id": "86C5D0EF-49F1-45A2-8A19-5042B68593A3",
+    "sourceURL": "https://www.themoviedb.org/movie/533535-deadpool-wolverine/images/backdrops",
+    "sourceCredit": "Deadpool & Wolverine film ensemble",
+    "focusFile": "focus/86c5d0ef-49f1-45a2-8a19-5042b68593a3.jpg",
+    "fullFile": "full/86c5d0ef-49f1-45a2-8a19-5042b68593a3.jpg",
+    "logoSourceURL": "",
+    "focusSHA256": "adfcf61d82f0edcc8f2419444464d0bc36f9deec3dfddb59440d3762716926bb",
+    "fullSHA256": "759f5cd73c9d3f19bf8683c3d7afa20dd13be45f4af52edfd96ea026485dfedf"
   },
   {
     "group": "Genres",
