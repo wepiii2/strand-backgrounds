@@ -3629,7 +3629,7 @@
                 "coverImageURL": "https://wepiii2.github.io/strand-backgrounds/icons/ab5feb4f5708015af5f7.jpg",
                 "id": "DFFC8A14-79AB-4B1D-B5DC-BDE0D77BE6C6",
                 "hideTitle": true,
-                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/focus/394996ec-d3b3-49a7-9506-3324bed96143.jpg?v=74c6ef707b55-v30",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/focus/394996ec-d3b3-49a7-9506-3324bed96143.jpg?v=eeb65a835fb1",
                 "sources": [
                   {
                     "tmdbDiscover": {
@@ -3757,7 +3757,7 @@
                 "coverImageURL": "https://wepiii2.github.io/strand-backgrounds/icons/b872f821cd301d5e29ef.jpg",
                 "id": "73B27327-2D67-4B43-BEA0-5439A39E7A1E",
                 "hideTitle": true,
-                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/focus/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg?v=80ac9696dc9e-v30",
+                "backgroundImageURL": "https://wepiii2.github.io/strand-backgrounds/focus/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg?v=0d7d77c26d46",
                 "sources": []
               },
               {
@@ -5595,7 +5595,7 @@
               },
               {
                 "tileShape": "poster",
-                "title": "National Lampoon’s Vacation",
+                "title": "National Lampoon\u2019s Vacation",
                 "coverImageURL": "https://wepiii2.github.io/strand-backgrounds/icons/67611b2983a8f9ba8e07.jpg",
                 "id": "BC231015-680E-4055-A6F7-8E17AB701BC0",
                 "hideTitle": true,
@@ -5751,7 +5751,7 @@
               },
               {
                 "tileShape": "poster",
-                "title": "Pokémon",
+                "title": "Pok\u00e9mon",
                 "coverImageURL": "https://wepiii2.github.io/strand-backgrounds/icons/10cad5442f44aa12d9d5.jpg",
                 "id": "D83B8D71-A955-47E4-9EA1-C44EBC1B5EDC",
                 "hideTitle": true,
@@ -5760,7 +5760,7 @@
                   {
                     "tmdbCollection": {
                       "_0": {
-                        "name": "Pokémon Collection",
+                        "name": "Pok\u00e9mon Collection",
                         "sortBy": "original",
                         "collectionId": 34055
                       }

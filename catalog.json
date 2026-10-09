@@ -771,24 +771,24 @@
     "title": "Focus Features",
     "id": "394996EC-D3B3-49A7-9506-3324BED96143",
     "sourceURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/89d3f40e06ed17f406f0b710cb18586f5423a462/collections/companies/10146-focus-features/backdrops/t2_4k.jpg",
-    "sourceCredit": "nuvio-assets",
+    "sourceCredit": "Official studio wordmark composited over film artwork; approved October 9, 2026",
     "focusFile": "focus/394996ec-d3b3-49a7-9506-3324bed96143.jpg",
     "fullFile": "full/394996ec-d3b3-49a7-9506-3324bed96143.jpg",
-    "logoSourceURL": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/89d3f40e06ed17f406f0b710cb18586f5423a462/collections/companies/10146-focus-features/logos/color/10146_color_1.png",
-    "focusSHA256": "74c6ef707b551f5cbb0dce28bf83150c70966639dba4bb189e7ad703bdef436c",
-    "fullSHA256": "2e95d7da15cde623f2010e0e217b5fa245eb2267a0cc0166c7fb8386fc4e4260"
+    "logoSourceURL": "https://www.focusfeatures.com/article/logo_focus_features_corporate",
+    "focusSHA256": "eeb65a835fb1e253a4e13dc0597018a779f3cb333ff583e54f094c48be346427",
+    "fullSHA256": "acfd92b43a54e79463a71b00770f35891e7c52517e2af43967cd630016bb4e2d"
   },
   {
     "group": "Studios",
     "title": "Illumination",
     "id": "3AA90A14-A9DC-4B4E-974F-0C95D6F64FFA",
     "sourceURL": null,
-    "sourceCredit": "AI-generated composition for this pack",
+    "sourceCredit": "Despicable Me moonlit artwork with original Illumination wordmark and added glow; approved October 9, 2026",
     "focusFile": "focus/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg",
     "fullFile": "full/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg",
     "logoSourceURL": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/fc2efd90d710767a5fc6d48688df7fbd08b363f4/collections/companies/6704-illumination/logos/white/6704_white_1.png",
-    "focusSHA256": "80ac9696dc9e259ea364b068a979f5d09275a3c457065b2df6dad7c1e6b752eb",
-    "fullSHA256": "747d5e5645d5e36cef5d75a4db570456ca154f537629c1ed43e9fe13551579db"
+    "focusSHA256": "0d7d77c26d4600dbf191986e691cb82e1ab4e5767841daeeb8bd73beb264bd73",
+    "fullSHA256": "0d023e7fe15f37bce47987e5088111e617a25ca61c936972df0d5c01e89e8d56"
   },
   {
     "group": "Studios",
@@ -2158,7 +2158,7 @@
   },
   {
     "group": "Movie Collections",
-    "title": "National Lampoon’s Vacation",
+    "title": "National Lampoon\u2019s Vacation",
     "id": "84E100ED-22F3-496F-9ACC-5555253A8A55",
     "sourceURL": "https://www.themoviedb.org/movie/11153-national-lampoons-vacation/images/backdrops",
     "sourceCredit": "Vacation film still",
@@ -2209,7 +2209,7 @@
     "title": "The Ocean's Trilogy",
     "id": "491953FB-83A6-4B61-B9E6-2B3D532AE93E",
     "sourceURL": "https://www.themoviedb.org/collection/304-oceans-collection/images/backdrops",
-    "sourceCredit": "Ocean’s film ensemble",
+    "sourceCredit": "Ocean\u2019s film ensemble",
     "focusFile": "focus/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "fullFile": "full/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/p8OAQOQWdTjuGsBJCleal3n6Bfk.png",
@@ -2326,7 +2326,7 @@
   },
   {
     "group": "Movie Collections",
-    "title": "Pokémon",
+    "title": "Pok\u00e9mon",
     "id": "FEC1EAB2-5BDB-4267-8B70-1D97425EB645",
     "sourceURL": "https://image.tmdb.org/t/p/original/iGoYKA0TFfgSoZpG2u5viTJMGfK.jpg",
     "sourceCredit": "TMDB collection 34055",
