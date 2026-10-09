@@ -782,13 +782,19 @@
     "group": "Studios",
     "title": "Illumination",
     "id": "3AA90A14-A9DC-4B4E-974F-0C95D6F64FFA",
-    "sourceURL": null,
-    "sourceCredit": "Despicable Me moonlit artwork with original Illumination wordmark and added glow; approved October 9, 2026",
+    "sourceURL": "https://www.calm.com/player/md-OHgzwTc",
+    "sourceCredit": "Minions space artwork with Gru, Max and Gunter character cutouts and original glowing Illumination wordmark; approved October 9, 2026",
     "focusFile": "focus/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg",
     "fullFile": "full/3aa90a14-a9dc-4b4e-974f-0c95d6f64ffa.jpg",
     "logoSourceURL": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/fc2efd90d710767a5fc6d48688df7fbd08b363f4/collections/companies/6704-illumination/logos/white/6704_white_1.png",
-    "focusSHA256": "0d7d77c26d4600dbf191986e691cb82e1ab4e5767841daeeb8bd73beb264bd73",
-    "fullSHA256": "0d023e7fe15f37bce47987e5088111e617a25ca61c936972df0d5c01e89e8d56"
+    "focusSHA256": "4b8f36f65713e556d3b2b67567bf013065b5a0b867bb9a13bc09eded363d1dbf",
+    "fullSHA256": "6c25d3e4dcb80dc910225793cd4074d0092624328687ef7348fb30c99f059cdf",
+    "characterSourceURLs": [
+      "https://www.vhv.rs/viewpic/bixoox_gru-despicable-me-characters-hd-png-download/",
+      "https://gallery.yopriceville.com/Free-Clipart-Pictures/Cartoons-PNG/The_Secret_Life_of_Pets_Max_Transparent_PNG_Image",
+      "https://sing.fandom.com/wiki/Gunter",
+      "https://www.pngegg.com/pl/png-ecolk"
+    ]
   },
   {
     "group": "Studios",
@@ -2158,7 +2164,7 @@
   },
   {
     "group": "Movie Collections",
-    "title": "National Lampoon\u2019s Vacation",
+    "title": "National Lampoon’s Vacation",
     "id": "84E100ED-22F3-496F-9ACC-5555253A8A55",
     "sourceURL": "https://www.themoviedb.org/movie/11153-national-lampoons-vacation/images/backdrops",
     "sourceCredit": "Vacation film still",
@@ -2209,7 +2215,7 @@
     "title": "The Ocean's Trilogy",
     "id": "491953FB-83A6-4B61-B9E6-2B3D532AE93E",
     "sourceURL": "https://www.themoviedb.org/collection/304-oceans-collection/images/backdrops",
-    "sourceCredit": "Ocean\u2019s film ensemble",
+    "sourceCredit": "Ocean’s film ensemble",
     "focusFile": "focus/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "fullFile": "full/491953fb-83a6-4b61-b9e6-2b3d532ae93e.jpg",
     "logoSourceURL": "https://image.tmdb.org/t/p/original/p8OAQOQWdTjuGsBJCleal3n6Bfk.png",
@@ -2326,7 +2332,7 @@
   },
   {
     "group": "Movie Collections",
-    "title": "Pok\u00e9mon",
+    "title": "Pokémon",
     "id": "FEC1EAB2-5BDB-4267-8B70-1D97425EB645",
     "sourceURL": "https://image.tmdb.org/t/p/original/iGoYKA0TFfgSoZpG2u5viTJMGfK.jpg",
     "sourceCredit": "TMDB collection 34055",

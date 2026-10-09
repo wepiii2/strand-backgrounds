@@ -1,0 +1,17 @@
+**Getting content into these shelves**
+
+The shelf downloads include the layout and artwork. Some folders already have TMDB sources; empty folders still need content sources. Playback uses your own setup.
+
+You do not need a Trellis server to use Ultra MAX. Set up your own profile at https://ultramax.vip/ and install its catalog link in Strand. Then export the shelves you want connected.
+
+If you use AI, choose one that can read/edit files and inspect web links. Attach your shelf export, give it your Ultra MAX install/manifest link privately, and use this prompt:
+https://wepiii2.github.io/strand-backgrounds/Strand-Ultra-MAX-AI-Prompt.txt
+
+Use the install link, not your password. Do not post personal links or account details in this thread. The prompt asks AI to match real catalogs, preserve your artwork and existing sources, test the results, and return a .strand file plus an iPhone-friendly ZIP. It also tells AI to request one working source example if it cannot determine Strand's format.
+
+Back up before importing. If a folder cannot be matched, AI should tell you which one instead of calling an incomplete file finished.
+
+Focused hero / Full-screen hero shelves, formatter and examples:
+https://wepiii2.github.io/strand-backgrounds/public-shelves.html
+
+The Illumination background has also been updated with the brighter logo and additional characters.
