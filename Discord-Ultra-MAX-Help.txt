@@ -1,4 +1,4 @@
-**My Strand shelves + custom artwork — v36**
+**My Strand shelves + custom artwork — v37**
 
 The downloads now have native content sources connected in all 313 artwork folders: Streaming Services, Networks, Studios, Movie Collections, Kids and Family, Genres, and Moods & Vibes.
 
@@ -11,7 +11,7 @@ Back up your setup, then import ONE shelf version:
 Both downloads, iPhone-friendly ZIPs, the formatter and examples:
 https://wepiii2.github.io/strand-backgrounds/public-shelves.html
 
-These files include shelves and artwork; use your own playback setup. Personal watchlist, sports and recommendation rows use your settings. Trending Series is still a placeholder. Public catalogs can differ from the original Ultra MAX selections.
+These files include shelves and artwork; use your own playback setup. Personal watchlist, sports and recommendation rows use your settings. Trending Series now includes a native trending-shows list. Public catalogs can differ from the original Ultra MAX selections.
 
 GitHub:
 https://github.com/wepiii2/strand-backgrounds

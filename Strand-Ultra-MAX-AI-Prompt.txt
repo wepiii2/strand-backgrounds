@@ -1,4 +1,4 @@
-NOTE: Version 36 shelf downloads already include native TMDB/MDBList source connections. You do not need this prompt or an Ultra MAX account to use them. Add your own MDBList key in Strand for the public lists. The prompt below is optional if you specifically want to replace native sources with your personal Ultra MAX catalogs.
+NOTE: Version 37 shelf downloads already include native TMDB/MDBList source connections. You do not need this prompt or an Ultra MAX account to use them. Add your own MDBList key in Strand for the public lists. The prompt below is optional if you specifically want to replace native sources with your personal Ultra MAX catalogs.
 
 Connect my exported Strand shelves to my own Ultra MAX catalogs and return a working .strand shelf-import file.
 

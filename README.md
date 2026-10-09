@@ -3,14 +3,14 @@
 Artwork for 324 Strand folders, with focus-driven and full-screen versions.
 Browse the gallery at https://wepiii2.github.io/strand-backgrounds/.
 
-## Public shelves with native sources — v36
+## Public shelves with native sources — v37
 
 Download the [Focused hero or Full-screen hero shelves, formatter and examples](https://wepiii2.github.io/strand-backgrounds/public-shelves.html).
 The shelves-only exports contain 14 rows and 313 artwork folders. All 313 folders have native TMDB or MDBList source connections; all artwork uses GitHub Pages. No Trellis server or Ultra MAX account is needed.
 
-Add your own free MDBList API key once in Strand's settings for the public list sources, and keep your own playback configuration. Watchlist, sports and recommendation rows use your settings; Trending Series remains a placeholder. Back up first and import only one variant. These are shelves, not an account backup.
+Add your own free MDBList API key once in Strand's settings for the public list sources, and keep your own playback configuration. Watchlist, sports and recommendation rows use your settings; Trending Series now loads a public trending-shows list through native MDBList. Back up first and import only one variant. These are shelves, not an account backup.
 
-[Instructions](Strand-Public-Shelves-README-v36.txt) · [Source mappings](Strand-Native-Sources-v36.csv). Public lists can differ from Ultra MAX's selections. Source structures and identifiers are checked; a fresh-device import has not been performed.
+[Instructions](Strand-Public-Shelves-README-v37.txt) · [Source mappings](Strand-Native-Sources-v36.csv). Public lists can differ from Ultra MAX's selections. Source structures and identifiers are checked; a fresh-device import has not been performed.
 
 Download `Strand-Backgrounds-Self-Host-v7.zip` from the site, unzip it, then run:
 

@@ -1,4 +1,4 @@
-STRAND SHELVES WITH NATIVE SOURCES — VERSION 36
+STRAND SHELVES WITH NATIVE SOURCES — VERSION 37
 
 Choose ONE artwork variant: Focused hero or Full-screen hero.
 Both files contain the same 14 shelf rows and 313 artwork folders.
@@ -9,7 +9,7 @@ IMPORT
 1. Back up your current Strand setup.
 2. Use an up-to-date Strand version that supports native MDBList lists.
 3. Add your own free MDBList API key in Strand's settings. Get it from
-   https://mdblist.com/ under Preferences > API. Add it once; the 17
+   https://mdblist.com/ under Preferences > API. Add it once; the 17 artwork
    folders using MDBList do not need to be connected individually.
 4. Save the chosen .strand file and import it using Strand's shelf import.
    Import ONE variant; importing both may add duplicate shelf rows.
@@ -24,11 +24,11 @@ WHAT IS INCLUDED
 Streaming Services, Networks, Studios, Movie Collections, Kids and Family,
 Genres, and Moods & Vibes all have sources connected in their 313 folders.
 Watchlist, sports, and recommendation rows use your own Strand settings.
-The pre-existing Trending Series row remains an empty placeholder.
+Trending Series now uses the native MDBList list Trakt's Trending Shows (250 series).
 Trending Movies keeps its existing native TMDB connection.
 
 TMDB handles collections and discovery directly. MDBList handles public
-streaming-service lists, MCU, and Cloverfield. One native TMDB list handles
+streaming-service lists, MCU, Cloverfield, and Trending Series. One native TMDB list handles
 Unbreakable, Split and Glass. No Trellis server or Ultra MAX account is needed.
 Some selections differ from Ultra MAX's curated catalogs. Streaming lists
 are curated public lists, not guarantees of complete regional availability.

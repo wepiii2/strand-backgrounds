@@ -4110,13 +4110,13 @@
       "id": "DFF82AF0-A771-44DE-8B9D-A7B3DCE21879",
       "style": "row_classic",
       "source": {
-        "group": {
+        "mdbListList": {
           "_0": {
-            "tileShape": "poster",
-            "coverFillsHero": false,
-            "hideTitle": false,
-            "title": "Trending Series",
-            "contentSources": []
+            "listId": 88434,
+            "listName": "Trakt's Trending Shows",
+            "username": "snoak",
+            "itemCount": 250,
+            "mediatype": "show"
           }
         }
       },
