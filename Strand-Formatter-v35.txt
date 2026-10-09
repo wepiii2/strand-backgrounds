@@ -1,0 +1,11 @@
+SOURCE NAME TEMPLATE
+
+{service.shortName::exists["[{service.shortName}{service.cached[" ⚡"||" ⌛"||""]}] {addon.name}"||"{stream.provider::exists["{stream.provider}"||"{addon.name}"]}"]}{stream.resolution::exists[" • {stream.resolution::replace('2160p','4K')::replace('4320p','8K')}"||""]}
+
+SOURCE DESCRIPTION TEMPLATE
+
+{stream.title::exists["🎬 {stream.title}{stream.year::exists[" ({stream.year})"||""]}"||"{tools.removeLine}"]}
+{stream.languages::in('english')["🗣️ English"||"{tools.removeLine}"]}
+{stream.size::>0["💾 {stream.size::sbytes}{stream.bitrate::>0[" • {stream.bitrate::sbitrate}"||""]}"||"{tools.removeLine}"]}
+{stream.audioTags::exists["🎧{stream.audioTags::join(' | ')}{stream.audioChannels::exists[" 📡 {stream.audioChannels::sort::last}"||""]}"||"{tools.removeLine}"]}
+{stream.duration::>0["🕘 {stream.duration::time}"||"{tools.removeLine}"]}

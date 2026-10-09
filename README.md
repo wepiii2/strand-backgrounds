@@ -3,12 +3,10 @@
 Artwork for 324 Strand folders, with focus-driven and full-screen versions.
 Browse the gallery at https://wepiii2.github.io/strand-backgrounds/.
 
-Existing public `strand-art.otterschickens.com` image and download links redirect
-to GitHub, so previously imported shelves keep working. Use the GitHub Pages
-address for new setups; public artwork requests no longer use the old art server.
+## Public shelf templates — v35
 
-This public repository contains only artwork, its source catalog, and helper scripts.
-It contains no personal Strand export, addon URLs, or credentials.
+Download the [Focus or Full-screen shelf templates, formatter and examples](https://wepiii2.github.io/strand-backgrounds/public-shelves.html).
+The templates contain 14 shelf rows and 313 artwork tiles. All icon and hero addresses use GitHub Pages. Existing TMDB discovery, collection and list sources are retained; media-server connections are omitted. Configure your own sources for playback and any empty tiles. These are shelf layout templates, not a complete account backup.
 
 Download `Strand-Backgrounds-Self-Host-v7.zip` from the site, unzip it, then run:
 

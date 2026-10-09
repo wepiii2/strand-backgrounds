@@ -1,0 +1,22 @@
+My Strand shelves + custom artwork
+
+Sharing my shelf layout and artwork for Streaming Services, Networks, Studios, Movie Collections, Kids & Family, Genres, and Moods & Vibes.
+
+Choose the Focus or Full-screen shelf template. The artwork uses GitHub links, and existing TMDB sources are retained. Connect your own sources for playback and any empty tiles. These files contain shelf layouts, not a complete account setup.
+
+Shelf templates, formatter and examples:
+https://wepiii2.github.io/strand-backgrounds/public-shelves.html
+
+Focus shelf download:
+https://wepiii2.github.io/strand-backgrounds/public-shelves.html#focus-art
+
+Full-screen shelf download:
+https://wepiii2.github.io/strand-backgrounds/public-shelves.html#full-art
+
+Gallery:
+https://wepiii2.github.io/strand-backgrounds/
+
+GitHub project:
+https://github.com/wepiii2/strand-backgrounds
+
+The formatter example and home-screen screenshot show how I use the layout. Back up your setup before importing.
