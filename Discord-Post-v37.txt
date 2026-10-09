@@ -1,17 +1,28 @@
 **My Strand shelves + custom artwork — v37**
 
-The downloads now have native content sources connected in all 313 artwork folders: Streaming Services, Networks, Studios, Movie Collections, Kids and Family, Genres, and Moods & Vibes.
+Custom icons and backgrounds for Streaming Services, Networks, Studios, Movie Collections, Kids and Family, Genres, and Moods & Vibes.
 
-No Trellis server or Ultra MAX account is needed. Add your own free MDBList API key once in Strand’s settings for the streaming-service lists and a couple of curated collections. Get it at https://mdblist.com/ under Preferences → API. Keep your key private.
+All 313 artwork folders have native TMDB or MDBList catalogs connected. Trending Movies and Trending Series are connected too. This version does not require Ultra MAX, Xperience or Trellis.
 
-Back up your setup, then import ONE shelf version:
-• Import shelves to Strand — Focused hero
-• Import shelves to Strand — Full-screen hero
+**Before importing:**
+• Back up your setup and use an up-to-date Strand version.
+• Add your own free MDBList API key once in Strand’s settings. Get it at https://mdblist.com/ under Preferences → API. Keep it private.
+• Import ONE hero version and keep your own playback setup.
 
-Both downloads, iPhone-friendly ZIPs, the formatter and examples:
-https://wepiii2.github.io/strand-backgrounds/public-shelves.html
+**Import shelves to Strand — Focused hero**
+https://wepiii2.github.io/strand-backgrounds/Strand-Shelves-Native-Focused-Hero-v37.strand
 
-These files include shelves and artwork; use your own playback setup. Personal watchlist, sports and recommendation rows use your settings. Trending Series now includes a native trending-shows list. Public catalogs can differ from the original Ultra MAX selections.
+**Import shelves to Strand — Full-screen hero**
+https://wepiii2.github.io/strand-backgrounds/Strand-Shelves-Native-Full-Screen-Hero-v37.strand
 
-GitHub:
-https://github.com/wepiii2/strand-backgrounds
+**ZIP downloads, formatter and examples:**
+https://wepiii2.github.io/strand-backgrounds/public-shelves.html?v=37
+
+On iPhone, use the ZIP if the shelf file opens as text. Save to Files, unzip, then import the enclosed shelf file.
+
+**Want different catalogs?**
+You can use your personal Ultra MAX (ultramax.vip) or Xperience catalogs instead, but Strand requires your own self-hosted Trellis server for that route. Configure the provider in Trellis, connect Trellis to Strand, then use the attached AI prompt to map your exported shelves to your own collections. No shared server is provided. Keep your login details and personal links private.
+
+Watchlist, sports and recommendations use your settings. Public catalogs may differ from the original selections. A fresh-device import has not yet been tested.
+
+**GitHub:** https://github.com/wepiii2/strand-backgrounds
