@@ -1,17 +1,17 @@
-**Getting content into these shelves**
+**My Strand shelves + custom artwork — v36**
 
-The shelf downloads include the layout and artwork. Some folders already have TMDB sources; empty folders still need content sources. Playback uses your own setup.
+The downloads now have native content sources connected in all 313 artwork folders: Streaming Services, Networks, Studios, Movie Collections, Kids and Family, Genres, and Moods & Vibes.
 
-You do not need a Trellis server to use Ultra MAX. Set up your own profile at https://ultramax.vip/ and install its catalog link in Strand. Then export the shelves you want connected.
+No Trellis server or Ultra MAX account is needed. Add your own free MDBList API key once in Strand’s settings for the streaming-service lists and a couple of curated collections. Get it at https://mdblist.com/ under Preferences → API. Keep your key private.
 
-If you use AI, choose one that can read/edit files and inspect web links. Attach your shelf export, give it your Ultra MAX install/manifest link privately, and use this prompt:
-https://wepiii2.github.io/strand-backgrounds/Strand-Ultra-MAX-AI-Prompt.txt
+Back up your setup, then import ONE shelf version:
+• Import shelves to Strand — Focused hero
+• Import shelves to Strand — Full-screen hero
 
-Use the install link, not your password. Do not post personal links or account details in this thread. The prompt asks AI to match real catalogs, preserve your artwork and existing sources, test the results, and return a .strand file plus an iPhone-friendly ZIP. It also tells AI to request one working source example if it cannot determine Strand's format.
-
-Back up before importing. If a folder cannot be matched, AI should tell you which one instead of calling an incomplete file finished.
-
-Focused hero / Full-screen hero shelves, formatter and examples:
+Both downloads, iPhone-friendly ZIPs, the formatter and examples:
 https://wepiii2.github.io/strand-backgrounds/public-shelves.html
 
-The Illumination background has also been updated with the brighter logo and additional characters.
+These files include shelves and artwork; use your own playback setup. Personal watchlist, sports and recommendation rows use your settings. Trending Series is still a placeholder. Public catalogs can differ from the original Ultra MAX selections.
+
+GitHub:
+https://github.com/wepiii2/strand-backgrounds

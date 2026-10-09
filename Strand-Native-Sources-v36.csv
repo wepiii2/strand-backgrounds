@@ -1,0 +1,525 @@
+Shelf,Folder,Source type,Public identifier,Source name,Mapping
+Streaming Services,Netflix,mdbListList,88328,Netflix Movies,Verified public movie/show lists
+Streaming Services,Netflix,mdbListList,88329,Netflix Shows,Verified public movie/show lists
+Streaming Services,Prime Video,mdbListList,88332,Prime Movies,Verified public movie/show lists
+Streaming Services,Prime Video,mdbListList,88333,Prime Shows,Verified public movie/show lists
+Streaming Services,Disney+,mdbListList,88322,Disney+ Movies,Verified public movie/show lists
+Streaming Services,Disney+,mdbListList,88323,Disney+ Shows,Verified public movie/show lists
+Streaming Services,HBO Max,mdbListList,88324,Max Movies,Verified public movie/show lists
+Streaming Services,HBO Max,mdbListList,88325,Max Shows,Verified public movie/show lists
+Streaming Services,Apple TV+,mdbListList,88317,Apple+ Movies,Verified public movie/show lists
+Streaming Services,Apple TV+,mdbListList,88319,Apple+ Shows,Verified public movie/show lists
+Streaming Services,Paramount+,mdbListList,88330,Paramount+ Movies,Verified public movie/show lists
+Streaming Services,Paramount+,mdbListList,88331,Paramount+ Shows,Verified public movie/show lists
+Streaming Services,Hulu,mdbListList,88326,Hulu Movies,Verified public movie/show lists
+Streaming Services,Hulu,mdbListList,88327,Hulu Shows,Verified public movie/show lists
+Streaming Services,Peacock,mdbListList,83487,Peacock Movies,Verified public movie/show lists
+Streaming Services,Peacock,mdbListList,83484,Peacock Shows,Verified public movie/show lists
+Streaming Services,Starz,mdbListList,168052,Starz Movies,Verified public movie/show lists
+Streaming Services,Starz,mdbListList,168053,Starz Series,Verified public movie/show lists
+Streaming Services,AMC+,mdbListList,168057,AMC+ Movies,Verified public movie/show lists
+Streaming Services,AMC+,mdbListList,168059,AMC+ Series,Verified public movie/show lists
+Streaming Services,Criterion,mdbListList,168069,The Criterion Movies,Verified public movie/show lists
+Streaming Services,Discovery+,mdbListList,16592,Discovery+ Original TV Shows,Verified public movie/show lists
+Streaming Services,Discovery+,mdbListList,16608,Latest Discovery+ TV Shows,Verified public movie/show lists
+Streaming Services,MGM+,mdbListList,168049,MGM+ Movies,Verified public movie/show lists
+Streaming Services,MGM+,mdbListList,168051,MGM+ Series,Verified public movie/show lists
+Streaming Services,Pluto TV,mdbListList,223078,Pluto Movies,Verified public movie/show lists
+Streaming Services,Pluto TV,mdbListList,223077,Pluto TV Shows,Verified public movie/show lists
+Streaming Services,Tubi TV,mdbListList,223075,Tubi Movies,Verified public movie/show lists
+Streaming Services,Tubi TV,mdbListList,223074,Tubi TV Shows,Verified public movie/show lists
+Networks,A&E,tmdbDiscover,[129],A&E Series,Native TMDB network discovery
+Networks,ABC,tmdbDiscover,[2],ABC Series,Native TMDB network discovery
+Networks,Adult Swim,tmdbDiscover,[80],Adult Swim Series,Native TMDB network discovery
+Networks,AMC,tmdbDiscover,[174],AMC Series,Native TMDB network discovery
+Networks,Animal Planet,tmdbDiscover,[91],Animal Planet Series,Native TMDB network discovery
+Networks,Bravo,tmdbDiscover,[74],Bravo Series,Native TMDB network discovery
+Networks,Cartoon Network,tmdbDiscover,[56],Cartoon Network Series,Native TMDB network discovery
+Networks,CBS,tmdbDiscover,[16],CBS Series,Native TMDB network discovery
+Networks,Cinemax,tmdbDiscover,[359],Popular Series,Existing native sources retained
+Networks,Cinemax,tmdbDiscover,[359],Recent Series,Existing native sources retained
+Networks,Cinemax,tmdbDiscover,[359],Top Rated Series,Existing native sources retained
+Networks,Comedy Central,tmdbDiscover,[47],Comedy Central Series,Native TMDB network discovery
+Networks,Discovery,tmdbDiscover,[64],Discovery Series,Native TMDB network discovery
+Networks,Disney Channel,tmdbDiscover,[54],Disney Channel Series,Native TMDB network discovery
+Networks,Disney Junior,tmdbDiscover,[281],Disney Junior Series,Native TMDB network discovery
+Networks,Disney XD,tmdbDiscover,[44],Popular Series,Existing native sources retained
+Networks,Disney XD,tmdbDiscover,[44],Recent Series,Existing native sources retained
+Networks,Disney XD,tmdbDiscover,[44],Top Rated Series,Existing native sources retained
+Networks,E!,tmdbDiscover,[76],Popular Series,Existing native sources retained
+Networks,E!,tmdbDiscover,[76],Recent Series,Existing native sources retained
+Networks,E!,tmdbDiscover,[76],Top Rated Series,Existing native sources retained
+Networks,Food Network,tmdbDiscover,[143],Popular Series,Existing native sources retained
+Networks,Food Network,tmdbDiscover,[143],Recent Series,Existing native sources retained
+Networks,Food Network,tmdbDiscover,[143],Top Rated Series,Existing native sources retained
+Networks,FOX,tmdbDiscover,[19],FOX Series,Native TMDB network discovery
+Networks,Freeform,tmdbDiscover,[1267],Popular Series,Existing native sources retained
+Networks,Freeform,tmdbDiscover,[1267],Recent Series,Existing native sources retained
+Networks,Freeform,tmdbDiscover,[1267],Top Rated Series,Existing native sources retained
+Networks,FX,tmdbDiscover,[88],FX Series,Native TMDB network discovery
+Networks,Hallmark Channel,tmdbDiscover,[384],Popular Series,Existing native sources retained
+Networks,Hallmark Channel,tmdbDiscover,[384],Recent Series,Existing native sources retained
+Networks,Hallmark Channel,tmdbDiscover,[384],Top Rated Series,Existing native sources retained
+Networks,HBO,tmdbDiscover,[49],HBO Series,Native TMDB network discovery
+Networks,HGTV,tmdbDiscover,[210],HGTV Series,Native TMDB network discovery
+Networks,History,tmdbDiscover,[65],History Series,Native TMDB network discovery
+Networks,IFC,tmdbDiscover,[124],Popular Series,Existing native sources retained
+Networks,IFC,tmdbDiscover,[124],Recent Series,Existing native sources retained
+Networks,IFC,tmdbDiscover,[124],Top Rated Series,Existing native sources retained
+Networks,Investigation Discovery,tmdbDiscover,[244],Popular Series,Existing native sources retained
+Networks,Investigation Discovery,tmdbDiscover,[244],Recent Series,Existing native sources retained
+Networks,Investigation Discovery,tmdbDiscover,[244],Top Rated Series,Existing native sources retained
+Networks,Lifetime,tmdbDiscover,[34],Popular Series,Existing native sources retained
+Networks,Lifetime,tmdbDiscover,[34],Recent Series,Existing native sources retained
+Networks,Lifetime,tmdbDiscover,[34],Top Rated Series,Existing native sources retained
+Networks,MTV,tmdbDiscover,[33],MTV Series,Native TMDB network discovery
+Networks,National Geographic,tmdbDiscover,[43],National Geographic Series,Native TMDB network discovery
+Networks,NBC,tmdbDiscover,[6],NBC Series,Native TMDB network discovery
+Networks,Nickelodeon,tmdbDiscover,[13],Nickelodeon Series,Native TMDB network discovery
+Networks,OWN,tmdbDiscover,[827],Popular Series,Existing native sources retained
+Networks,OWN,tmdbDiscover,[827],Recent Series,Existing native sources retained
+Networks,OWN,tmdbDiscover,[827],Top Rated Series,Existing native sources retained
+Networks,Oxygen,tmdbDiscover,[132],Popular Series,Existing native sources retained
+Networks,Oxygen,tmdbDiscover,[132],Recent Series,Existing native sources retained
+Networks,Oxygen,tmdbDiscover,[132],Top Rated Series,Existing native sources retained
+Networks,Paramount Network,tmdbDiscover,[2076],Popular Series,Existing native sources retained
+Networks,Paramount Network,tmdbDiscover,[2076],Recent Series,Existing native sources retained
+Networks,Paramount Network,tmdbDiscover,[2076],Top Rated Series,Existing native sources retained
+Networks,PBS,tmdbDiscover,[14],PBS Series,Native TMDB network discovery
+Networks,Showtime,tmdbDiscover,[67],Showtime Series,Native TMDB network discovery
+Networks,STARZ,tmdbDiscover,[318],Popular Series,Existing native sources retained
+Networks,STARZ,tmdbDiscover,[318],Recent Series,Existing native sources retained
+Networks,STARZ,tmdbDiscover,[318],Top Rated Series,Existing native sources retained
+Networks,SundanceTV,tmdbDiscover,[270],Popular Series,Existing native sources retained
+Networks,SundanceTV,tmdbDiscover,[270],Recent Series,Existing native sources retained
+Networks,SundanceTV,tmdbDiscover,[270],Top Rated Series,Existing native sources retained
+Networks,Syfy,tmdbDiscover,[77],Syfy Series,Native TMDB network discovery
+Networks,TBS,tmdbDiscover,[68],TBS Series,Native TMDB network discovery
+Networks,The CW,tmdbDiscover,[71],The CW Series,Native TMDB network discovery
+Networks,TLC,tmdbDiscover,[84],TLC Series,Native TMDB network discovery
+Networks,TNT,tmdbDiscover,[41],TNT Series,Native TMDB network discovery
+Networks,Travel Channel,tmdbDiscover,[209],Popular Series,Existing native sources retained
+Networks,Travel Channel,tmdbDiscover,[209],Recent Series,Existing native sources retained
+Networks,Travel Channel,tmdbDiscover,[209],Top Rated Series,Existing native sources retained
+Networks,truTV,tmdbDiscover,[364],Popular Series,Existing native sources retained
+Networks,truTV,tmdbDiscover,[364],Recent Series,Existing native sources retained
+Networks,truTV,tmdbDiscover,[364],Top Rated Series,Existing native sources retained
+Networks,TV Land,tmdbDiscover,[397],Popular Series,Existing native sources retained
+Networks,TV Land,tmdbDiscover,[397],Recent Series,Existing native sources retained
+Networks,TV Land,tmdbDiscover,[397],Top Rated Series,Existing native sources retained
+Networks,tvN,tmdbDiscover,[866],Popular Series,Existing native sources retained
+Networks,tvN,tmdbDiscover,[866],Recent Series,Existing native sources retained
+Networks,tvN,tmdbDiscover,[866],Top Rated Series,Existing native sources retained
+Networks,USA Network,tmdbDiscover,[30],USA Network Series,Native TMDB network discovery
+Networks,VH1,tmdbDiscover,[158],Popular Series,Existing native sources retained
+Networks,VH1,tmdbDiscover,[158],Recent Series,Existing native sources retained
+Networks,VH1,tmdbDiscover,[158],Top Rated Series,Existing native sources retained
+Studios,20th Century Studios,tmdbDiscover,[25],20th Century Fox Movies,Native TMDB production-company discovery
+Studios,20th Century Studios,tmdbDiscover,[127928],20th Century Studios Movies,Native TMDB production-company discovery
+Studios,A24,tmdbDiscover,[41077],Recent Series,Existing native sources retained
+Studios,A24,tmdbDiscover,[41077],Popular Series,Existing native sources retained
+Studios,A24,tmdbDiscover,[41077],Top Rated Series,Existing native sources retained
+Studios,Blumhouse Productions,tmdbDiscover,[3172],Recent Series,Existing native sources retained
+Studios,Blumhouse Productions,tmdbDiscover,[3172],Popular Series,Existing native sources retained
+Studios,Blumhouse Productions,tmdbDiscover,[3172],Top Rated Series,Existing native sources retained
+Studios,DC,tmdbDiscover,[429],Recent Series,Existing native sources retained
+Studios,DC,tmdbDiscover,[429],Popular Series,Existing native sources retained
+Studios,DC,tmdbDiscover,[429],Top Rated Series,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Recent Movies,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Popular Movies,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Top Rated Movies,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Recent Series,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Popular Series,Existing native sources retained
+Studios,DreamWorks Pictures,tmdbDiscover,[7],Top Rated Series,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Recent Movies,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Popular Movies,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Top Rated Movies,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Recent Series,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Popular Series,Existing native sources retained
+Studios,Focus Features,tmdbDiscover,[10146],Top Rated Series,Existing native sources retained
+Studios,Illumination,tmdbDiscover,[6704],Illumination Movies,Native TMDB production-company discovery
+Studios,Lionsgate,tmdbDiscover,[1632],Lionsgate Movies,Native TMDB production-company discovery
+Studios,Lucasfilm Ltd.,tmdbDiscover,[1],Recent Series,Existing native sources retained
+Studios,Lucasfilm Ltd.,tmdbDiscover,[1],Popular Series,Existing native sources retained
+Studios,Lucasfilm Ltd.,tmdbDiscover,[1],Top Rated Series,Existing native sources retained
+Studios,Marvel Studios,tmdbDiscover,[420],Recent Series,Existing native sources retained
+Studios,Marvel Studios,tmdbDiscover,[420],Popular Series,Existing native sources retained
+Studios,Marvel Studios,tmdbDiscover,[420],Top Rated Series,Existing native sources retained
+Studios,MGM,tmdbDiscover,[21],Recent Series,Existing native sources retained
+Studios,MGM,tmdbDiscover,[21],Popular Series,Existing native sources retained
+Studios,MGM,tmdbDiscover,[21],Top Rated Series,Existing native sources retained
+Studios,New Line Cinema,tmdbDiscover,[12],Recent Series,Existing native sources retained
+Studios,New Line Cinema,tmdbDiscover,[12],Popular Series,Existing native sources retained
+Studios,New Line Cinema,tmdbDiscover,[12],Top Rated Series,Existing native sources retained
+Studios,Paramount Pictures,tmdbDiscover,[4],Recent Series,Existing native sources retained
+Studios,Paramount Pictures,tmdbDiscover,[4],Popular Series,Existing native sources retained
+Studios,Paramount Pictures,tmdbDiscover,[4],Top Rated Series,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Recent Movies,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Popular Movies,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Top Rated Movies,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Recent Series,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Popular Series,Existing native sources retained
+Studios,Pixar,tmdbDiscover,[3],Top Rated Series,Existing native sources retained
+Studios,Searchlight Pictures,tmdbDiscover,[127929],Recent Movies,Existing native sources retained
+Studios,Searchlight Pictures,tmdbDiscover,[127929],Popular Movies,Existing native sources retained
+Studios,Searchlight Pictures,tmdbDiscover,[127929],Top Rated Movies,Existing native sources retained
+Studios,Sony Pictures,tmdbDiscover,[34],Sony Pictures Movies,Native TMDB production-company discovery
+Studios,Sony Pictures,tmdbDiscover,[5],Columbia Pictures Movies,Native TMDB production-company discovery
+Studios,Studio Ghibli,tmdbDiscover,[10342],Studio Ghibli Movies,Native TMDB production-company discovery
+Studios,Universal Pictures,tmdbDiscover,[33],Recent Series,Existing native sources retained
+Studios,Universal Pictures,tmdbDiscover,[33],Popular Series,Existing native sources retained
+Studios,Universal Pictures,tmdbDiscover,[33],Top Rated Series,Existing native sources retained
+Studios,Walt Disney Studio,tmdbDiscover,[6125],Recent Series,Existing native sources retained
+Studios,Walt Disney Studio,tmdbDiscover,[6125],Popular Series,Existing native sources retained
+Studios,Walt Disney Studio,tmdbDiscover,[6125],Top Rated Series,Existing native sources retained
+Studios,Warner Bros. Entertainment,tmdbDiscover,[17],Warner Bros. Entertainment Movies,Native TMDB production-company discovery
+Studios,Warner Bros. Entertainment,tmdbDiscover,[174],Warner Bros. Pictures Movies,Native TMDB production-company discovery
+Movie Collections,28 Days/Weeks/Years Later Collection,tmdbCollection,1565,28 Days/Weeks/Years Later Collection,Existing native sources retained
+Movie Collections,A Quiet Place,tmdbCollection,521226,A Quiet Place Collection,Current TMDB collection identifiers
+Movie Collections,Ace Ventura,tmdbCollection,3167,Ace Ventura Collection,Current TMDB collection identifiers
+Movie Collections,Alien,tmdbCollection,8091,Alien Collection,Current TMDB collection identifiers
+Movie Collections,Alvin and the Chipmunks,tmdbCollection,167613,Alvin and the Chipmunks Collection,Current TMDB collection identifiers
+Movie Collections,American Pie,tmdbCollection,2806,American Pie Collection,Current TMDB collection identifiers
+Movie Collections,Anchorman,tmdbCollection,93791,Anchorman Collection,Current TMDB collection identifiers
+Movie Collections,Annabelle Collection,tmdbCollection,402074,Annabelle Collection,Existing native sources retained
+Movie Collections,Austin Powers,tmdbCollection,1006,Austin Powers Collection,Current TMDB collection identifiers
+Movie Collections,Avatar Collection,tmdbCollection,87096,Avatar Collection,Current TMDB collection identifiers
+Movie Collections,Back to the Future,tmdbCollection,264,Back to the Future Collection,Current TMDB collection identifiers
+Movie Collections,Bad Boys,tmdbCollection,14890,Bad Boys Collection,Current TMDB collection identifiers
+Movie Collections,Batman,tmdbCollection,120794,Batman Collection,Current TMDB collection identifiers
+Movie Collections,Behind Enemy Lines,tmdbCollection,98513,Behind Enemy Lines Collection,Current TMDB collection identifiers
+Movie Collections,Beverly Hills Cop,tmdbCollection,85861,Beverly Hills Cop Collection,Current TMDB collection identifiers
+Movie Collections,Big Momma's House,tmdbCollection,44979,Big Momma's House Collection,Current TMDB collection identifiers
+Movie Collections,Blade,tmdbCollection,735,Blade Collection,Current TMDB collection identifiers
+Movie Collections,Blade Runner,tmdbCollection,422837,Blade Runner Collection,Current TMDB collection identifiers
+Movie Collections,Bridget Jones,tmdbCollection,8936,Bridget Jones Collection,Current TMDB collection identifiers
+Movie Collections,Bring It On,tmdbCollection,430186,Bring It On Collection,Current TMDB collection identifiers
+Movie Collections,Cars,tmdbCollection,87118,Cars Collection,Current TMDB collection identifiers
+Movie Collections,Child's Play,tmdbCollection,10455,Child's Play Collection,Current TMDB collection identifiers
+Movie Collections,Clash of the Titans Collection,tmdbCollection,86780,Clash of the Titans Collection,Existing native sources retained
+Movie Collections,Clerks,tmdbCollection,182813,Clerks Collection,Current TMDB collection identifiers
+Movie Collections,Cloudy with a Chance of Meatballs Collection,tmdbCollection,177467,Cloudy with a Chance of Meatballs Collection,Existing native sources retained
+Movie Collections,Cloverfield collection,mdbListList,129870,The Cloverfield Collection,Verified public curated list
+Movie Collections,Creed,tmdbCollection,553717,Creed Collection,Current TMDB collection identifiers
+Movie Collections,Daddy's Home,tmdbCollection,473971,Daddy's Home Collection,Current TMDB collection identifiers
+Movie Collections,Demon Slayer,tmdbCollection,925155,Demon Slayer Collection,Existing native sources retained
+Movie Collections,Despicable Me,tmdbCollection,86066,Despicable Me Collection,Current TMDB collection identifiers
+Movie Collections,Detective Conan,tmdbCollection,39199,Detective Conan Collection,Existing native sources retained
+Movie Collections,Diary of a Wimpy Kid,tmdbCollection,86110,Diary of a Wimpy Kid Collection,Current TMDB collection identifiers
+Movie Collections,Die Hard,tmdbCollection,1570,Die Hard Collection,Current TMDB collection identifiers
+Movie Collections,Dirty Harry,tmdbCollection,10456,Dirty Harry Collection,Current TMDB collection identifiers
+Movie Collections,Divergent,tmdbCollection,283579,Divergent Collection,Current TMDB collection identifiers
+Movie Collections,Don't Breathe,tmdbCollection,748919,Don't Breathe Collection,Current TMDB collection identifiers
+Movie Collections,Dragon Ball,tmdbCollection,386410,Dragon Ball Collection,Existing native sources retained
+Movie Collections,Dune,tmdbCollection,726871,Dune Collection,Current TMDB collection identifiers
+Movie Collections,Eastrail 177 Trilogy,tmdbList,130482,Unbreakable Collection,"Native list for Unbreakable, Split and Glass; obsolete collection replaced"
+Movie Collections,Enola Holmes,tmdbCollection,829314,Enola Holmes Collection,Current TMDB collection identifiers
+Movie Collections,Escape Room,tmdbCollection,769423,Escape Room Collection,Current TMDB collection identifiers
+Movie Collections,Evangelion,tmdbCollection,210303,Evangelion Collection,Existing native sources retained
+Movie Collections,Evil Dead,tmdbCollection,1960,Evil Dead Collection,Current TMDB collection identifiers
+Movie Collections,Fantastic Beasts,tmdbCollection,435259,Fantastic Beasts Collection,Current TMDB collection identifiers
+Movie Collections,Fifty Shades,tmdbCollection,344830,Fifty Shades Collection,Current TMDB collection identifiers
+Movie Collections,Final Destination,tmdbCollection,8864,Final Destination Collection,Current TMDB collection identifiers
+Movie Collections,Finding Nemo,tmdbCollection,137697,Finding Nemo Collection,Current TMDB collection identifiers
+Movie Collections,Friday the 13th,tmdbCollection,9735,Friday the 13th Collection,Current TMDB collection identifiers
+Movie Collections,G.I. Joe (Live-Action) Collection,tmdbCollection,135468,G.I. Joe (Live-Action) Collection,Existing native sources retained
+Movie Collections,Ghostbusters,tmdbCollection,2980,Ghostbusters Collection,Current TMDB collection identifiers
+Movie Collections,Goal!,tmdbCollection,110177,Goal Collection,Current TMDB collection identifiers
+Movie Collections,Godzilla,tmdbCollection,535313,Godzilla Collection,Current TMDB collection identifiers
+Movie Collections,Grown Ups Collection,tmdbCollection,180546,Grown Ups Collection,Existing native sources retained
+Movie Collections,Guardians of the Galaxy,tmdbCollection,284433,Guardians of the Galaxy Collection,Current TMDB collection identifiers
+Movie Collections,Halloween,tmdbCollection,91361,Halloween Collection,Current TMDB collection identifiers
+Movie Collections,Hannibal Lecter,tmdbCollection,9743,The Hannibal Lecter Collection,Current TMDB collection identifiers
+Movie Collections,Harry Potter,tmdbCollection,1241,Harry Potter Collection,Current TMDB collection identifiers
+Movie Collections,Hellraiser,tmdbCollection,8917,Hellraiser Collection,Current TMDB collection identifiers
+Movie Collections,Highlander Collection,tmdbCollection,8050,Highlander Collection,Existing native sources retained
+Movie Collections,Home Alone,tmdbCollection,9888,Home Alone Collection,Current TMDB collection identifiers
+Movie Collections,Horrible Bosses Collection,tmdbCollection,280588,Horrible Bosses Collection,Existing native sources retained
+Movie Collections,Hotel Transylvania,tmdbCollection,185103,Hotel Transylvania Collection,Current TMDB collection identifiers
+Movie Collections,How to Train Your Dragon,tmdbCollection,89137,How to Train Your Dragon Collection,Current TMDB collection identifiers
+Movie Collections,Ice Age,tmdbCollection,8354,Ice Age Collection,Current TMDB collection identifiers
+Movie Collections,Indiana Jones,tmdbCollection,84,Indiana Jones Collection,Current TMDB collection identifiers
+Movie Collections,Inside Out Collection,tmdbCollection,1022790,Inside Out Collection,Existing native sources retained
+Movie Collections,Insidious,tmdbCollection,228446,Insidious Collection,Current TMDB collection identifiers
+Movie Collections,It,tmdbCollection,477962,It Collection,Current TMDB collection identifiers
+Movie Collections,Jack Reacher Collection,tmdbCollection,403374,Jack Reacher Collection,Existing native sources retained
+Movie Collections,James Bond 007,tmdbCollection,645,James Bond Collection,Current TMDB collection identifiers
+Movie Collections,Jarhead,tmdbCollection,285564,Jarhead Collection,Current TMDB collection identifiers
+Movie Collections,Jaws,tmdbCollection,2366,Jaws Collection,Current TMDB collection identifiers
+Movie Collections,Jeepers Creepers Collection,tmdbCollection,94899,Jeepers Creepers Collection,Existing native sources retained
+Movie Collections,John Wick,tmdbCollection,404609,John Wick Collection,Current TMDB collection identifiers
+Movie Collections,Jumanji,tmdbCollection,495527,Jumanji Collection,Current TMDB collection identifiers
+Movie Collections,Jump Street,tmdbCollection,212562,Jump Street Collection,Current TMDB collection identifiers
+Movie Collections,Jurassic Park,tmdbCollection,328,Jurassic Park Collection,Current TMDB collection identifiers
+Movie Collections,King Kong (1976),tmdbCollection,135498,King Kong (1976) Collection,Existing native sources retained
+Movie Collections,Kingsman,tmdbCollection,391860,Kingsman Collection,Current TMDB collection identifiers
+Movie Collections,Knives Out,tmdbCollection,722971,Knives Out Collection,Current TMDB collection identifiers
+Movie Collections,Kung Fu Panda,tmdbCollection,77816,Kung Fu Panda Collection,Current TMDB collection identifiers
+Movie Collections,Legally Blonde,tmdbCollection,86024,Legally Blonde Collection,Current TMDB collection identifiers
+Movie Collections,Lethal Weapon,tmdbCollection,945,Lethal Weapon Collection,Current TMDB collection identifiers
+Movie Collections,Mad Max,tmdbCollection,8945,Mad Max Collection,Current TMDB collection identifiers
+Movie Collections,Madagascar,tmdbCollection,14740,Madagascar Collection,Current TMDB collection identifiers
+Movie Collections,Magic Mike,tmdbCollection,328247,Magic Mike Collection,Current TMDB collection identifiers
+Movie Collections,Major League,tmdbCollection,97771,Major League Collection,Current TMDB collection identifiers
+Movie Collections,Man of Steel,tmdbCollection,209131,Man of Steel Collection,Current TMDB collection identifiers
+Movie Collections,Marvel Cinematic Universe,mdbListList,40029,Marvel Cinematic Universe,Verified public curated list
+Movie Collections,Meet the Parents,tmdbCollection,51509,Meet the Parents Collection,Current TMDB collection identifiers
+Movie Collections,Men in Black Collection,tmdbCollection,86055,Men in Black Collection,Current TMDB collection identifiers
+Movie Collections,Minions Collection,tmdbCollection,544669,Minions Collection,Current TMDB collection identifiers
+Movie Collections,Missing in Action,tmdbCollection,46512,Missing in Action Collection,Current TMDB collection identifiers
+Movie Collections,Mission: Impossible,tmdbCollection,87359,Mission: Impossible Collection,Current TMDB collection identifiers
+Movie Collections,"Monsters, Inc.",tmdbCollection,137696,"Monsters, Inc. Collection",Current TMDB collection identifiers
+Movie Collections,My Hero Academia,tmdbCollection,1189668,My Hero Academia Collection,Existing native sources retained
+Movie Collections,Naruto,tmdbCollection,23616,Naruto Collection,Existing native sources retained
+Movie Collections,National Lampoon’s Vacation,tmdbCollection,108693,National Lampoon's Vacation Collection,Current TMDB collection identifiers
+Movie Collections,National Treasure,tmdbCollection,52984,National Treasure Collection,Current TMDB collection identifiers
+Movie Collections,Night at the Museum,tmdbCollection,85943,Night at the Museum Collection,Current TMDB collection identifiers
+Movie Collections,Now You See Me,tmdbCollection,382685,Now You See Me Collection,Current TMDB collection identifiers
+Movie Collections,The Ocean's Trilogy,tmdbCollection,304,Ocean's Collection,Current TMDB collection identifiers
+Movie Collections,One Piece,tmdbCollection,23456,One Piece Collection,Existing native sources retained
+Movie Collections,Pacific Rim,tmdbCollection,363369,Pacific Rim Collection,Current TMDB collection identifiers
+Movie Collections,Paddington,tmdbCollection,488924,Paddington Collection,Current TMDB collection identifiers
+Movie Collections,Paranormal Activity,tmdbCollection,41437,Paranormal Activity Collection,Current TMDB collection identifiers
+Movie Collections,Percy Jackson,tmdbCollection,179919,Percy Jackson Collection,Current TMDB collection identifiers
+Movie Collections,Pirates of the Caribbean,tmdbCollection,295,Pirates of the Caribbean Collection,Current TMDB collection identifiers
+Movie Collections,Pitch Perfect,tmdbCollection,306031,Pitch Perfect Collection,Current TMDB collection identifiers
+Movie Collections,Planet of the Apes (Original),tmdbCollection,1709,Planet of the Apes (Original) Collection,Existing native sources retained
+Movie Collections,Planet of the Apes (Reboot) Collection,tmdbCollection,173710,Planet of the Apes (Reboot) Collection,Existing native sources retained
+Movie Collections,Pokémon,tmdbCollection,34055,Pokémon Collection,Existing native sources retained
+Movie Collections,Poltergeist,tmdbCollection,10453,Poltergeist Collection,Current TMDB collection identifiers
+Movie Collections,Predator,tmdbCollection,399,Predator Collection,Current TMDB collection identifiers
+Movie Collections,Rambo,tmdbCollection,5039,Rambo Collection,Current TMDB collection identifiers
+Movie Collections,Resident Evil,tmdbCollection,17255,Resident Evil Collection,Current TMDB collection identifiers
+Movie Collections,Ride Along Collection,tmdbCollection,376650,Ride Along Collection,Existing native sources retained
+Movie Collections,Robert Langdon,tmdbCollection,115776,Robert Langdon Collection,Current TMDB collection identifiers
+Movie Collections,RoboCop,tmdbCollection,5547,RoboCop Collection,Current TMDB collection identifiers
+Movie Collections,Rocky,tmdbCollection,1575,Rocky Collection,Current TMDB collection identifiers
+Movie Collections,Rush Hour,tmdbCollection,90863,Rush Hour Collection,Current TMDB collection identifiers
+Movie Collections,Saw,tmdbCollection,656,Saw Collection,Current TMDB collection identifiers
+Movie Collections,Scary Movie,tmdbCollection,4246,Scary Movie Collection,Current TMDB collection identifiers
+Movie Collections,Scooby-Doo,tmdbCollection,86860,Scooby-Doo Collection,Current TMDB collection identifiers
+Movie Collections,Scream,tmdbCollection,2602,Scream Collection,Current TMDB collection identifiers
+Movie Collections,Sherlock Holmes,tmdbCollection,102322,Sherlock Holmes Collection,Current TMDB collection identifiers
+Movie Collections,Shrek,tmdbCollection,2150,Shrek Collection,Current TMDB collection identifiers
+Movie Collections,Sicario,tmdbCollection,496796,Sicario Collection,Current TMDB collection identifiers
+Movie Collections,Sing,tmdbCollection,544670,Sing Collection,Current TMDB collection identifiers
+Movie Collections,Sniper,tmdbCollection,14246,Sniper Collection,Current TMDB collection identifiers
+Movie Collections,Spider-Man,tmdbCollection,556,Spider-Man Collection,Current TMDB collection identifiers
+Movie Collections,Spider-Man,tmdbCollection,125574,The Amazing Spider-Man Collection,Current TMDB collection identifiers
+Movie Collections,Spider-Man,tmdbCollection,531241,Spider-Man (MCU) Collection,Current TMDB collection identifiers
+Movie Collections,Spider-Man: Spider-Verse,tmdbCollection,573436,Spider-Man: Spider-Verse Collection,Existing native sources retained
+Movie Collections,Star Trek,tmdbCollection,151,Star Trek: The Original Series Collection,Current TMDB collection identifiers
+Movie Collections,Star Trek,tmdbCollection,115570,Star Trek: The Next Generation Collection,Current TMDB collection identifiers
+Movie Collections,Star Trek: Alternate Reality,tmdbCollection,115575,Star Trek: Alternate Reality Collection,Existing native sources retained
+Movie Collections,Star Wars,tmdbCollection,10,Star Wars Collection,Current TMDB collection identifiers
+Movie Collections,Starship Troopers,tmdbCollection,10522,Starship Troopers Collection,Current TMDB collection identifiers
+Movie Collections,Step Up,tmdbCollection,86092,Step Up Collection,Current TMDB collection identifiers
+Movie Collections,Superman,tmdbCollection,8537,Superman Collection,Current TMDB collection identifiers
+Movie Collections,Taken Collection,tmdbCollection,135483,Taken Collection,Current TMDB collection identifiers
+Movie Collections,Ted Collection,tmdbCollection,266672,Ted Collection,Existing native sources retained
+Movie Collections,Texas Chainsaw Massacre Collection,tmdbCollection,111751,Texas Chainsaw Massacre Collection,Existing native sources retained
+Movie Collections,The Addams Family (Animated),tmdbCollection,750822,The Addams Family (Animated) Collection,Existing native sources retained
+Movie Collections,The Avengers Collection,tmdbCollection,86311,The Avengers Collection,Current TMDB collection identifiers
+Movie Collections,The Boondock Saints,tmdbCollection,87186,The Boondock Saints Collection,Current TMDB collection identifiers
+Movie Collections,The Boss Baby,tmdbCollection,519457,The Boss Baby Collection,Current TMDB collection identifiers
+Movie Collections,The Bourne,tmdbCollection,31562,The Bourne Collection,Current TMDB collection identifiers
+Movie Collections,The Chronicles of Narnia,tmdbCollection,420,The Chronicles of Narnia Collection,Current TMDB collection identifiers
+Movie Collections,The Conjuring,tmdbCollection,313086,The Conjuring Collection,Current TMDB collection identifiers
+Movie Collections,The Dark Knight,tmdbCollection,263,The Dark Knight Collection,Current TMDB collection identifiers
+Movie Collections,The Dirty Dozen,tmdbCollection,124492,The Dirty Dozen Collection,Current TMDB collection identifiers
+Movie Collections,The Equalizer,tmdbCollection,523855,The Equalizer Collection,Current TMDB collection identifiers
+Movie Collections,The Exorcist,tmdbCollection,12263,The Exorcist Collection,Current TMDB collection identifiers
+Movie Collections,The Expendables,tmdbCollection,126125,The Expendables Collection,Current TMDB collection identifiers
+Movie Collections,The Fast and the Furious,tmdbCollection,9485,The Fast and the Furious Collection,Current TMDB collection identifiers
+Movie Collections,The Godfather,tmdbCollection,230,The Godfather Collection,Current TMDB collection identifiers
+Movie Collections,The Grudge,tmdbCollection,1974,The Grudge Collection,Current TMDB collection identifiers
+Movie Collections,The Hangover,tmdbCollection,86119,The Hangover Collection,Current TMDB collection identifiers
+Movie Collections,The Hitman's Bodyguard Collection,tmdbCollection,608101,The Hitman's Bodyguard Collection,Existing native sources retained
+Movie Collections,The Hobbit,tmdbCollection,121938,The Hobbit Collection,Current TMDB collection identifiers
+Movie Collections,The Hunger Games,tmdbCollection,131635,The Hunger Games Collection,Current TMDB collection identifiers
+Movie Collections,The Incredibles,tmdbCollection,468222,The Incredibles Collection,Current TMDB collection identifiers
+Movie Collections,The Karate Kid,tmdbCollection,8580,The Karate Kid Collection,Current TMDB collection identifiers
+Movie Collections,The LEGO Movie,tmdbCollection,325470,The Lego Movie Collection,Current TMDB collection identifiers
+Movie Collections,The Lord of the Rings,tmdbCollection,119,The Lord of the Rings Collection,Current TMDB collection identifiers
+Movie Collections,The Matrix,tmdbCollection,2344,The Matrix Collection,Current TMDB collection identifiers
+Movie Collections,The Maze Runner,tmdbCollection,295130,The Maze Runner Collection,Current TMDB collection identifiers
+Movie Collections,The Mighty Ducks,tmdbCollection,10709,The Mighty Ducks Collection,Current TMDB collection identifiers
+Movie Collections,The Mummy,tmdbCollection,1733,The Mummy Collection,Current TMDB collection identifiers
+Movie Collections,The Nun Collection,tmdbCollection,968052,The Nun Collection,Existing native sources retained
+Movie Collections,The Omen,tmdbCollection,10919,The Omen Collection,Current TMDB collection identifiers
+Movie Collections,The Purge,tmdbCollection,256322,The Purge Collection,Current TMDB collection identifiers
+Movie Collections,The Raid Collection,tmdbCollection,257960,The Raid Collection,Existing native sources retained
+Movie Collections,The Ring,tmdbCollection,14563,The Ring Collection,Current TMDB collection identifiers
+Movie Collections,The Secret Life of Pets,tmdbCollection,427084,The Secret Life of Pets Collection,Current TMDB collection identifiers
+Movie Collections,The Terminator,tmdbCollection,528,The Terminator Collection,Current TMDB collection identifiers
+Movie Collections,The Transporter,tmdbCollection,9518,The Transporter Collection,Current TMDB collection identifiers
+Movie Collections,The Twilight,tmdbCollection,33514,Twilight Collection,Current TMDB collection identifiers
+Movie Collections,Top Gun,tmdbCollection,531330,Top Gun Collection,Current TMDB collection identifiers
+Movie Collections,Toy Story,tmdbCollection,10194,Toy Story Collection,Current TMDB collection identifiers
+Movie Collections,Transformers,tmdbCollection,8650,Transformers Collection,Current TMDB collection identifiers
+Movie Collections,Tremors,tmdbCollection,91799,Tremors Collection,Current TMDB collection identifiers
+Movie Collections,Trolls Holiday,tmdbCollection,1184152,Trolls Holiday Collection,Existing native sources retained
+Movie Collections,TRON,tmdbCollection,63043,TRON Collection,Current TMDB collection identifiers
+Movie Collections,Underworld,tmdbCollection,2326,Underworld Collection,Current TMDB collection identifiers
+Movie Collections,V/H/S,tmdbCollection,207621,V/H/S Collection,Current TMDB collection identifiers
+Movie Collections,Wayne's World,tmdbCollection,8979,Wayne's World Collection,Current TMDB collection identifiers
+Movie Collections,Wreck-It Ralph,tmdbCollection,404825,Wreck-It Ralph Collection,Current TMDB collection identifiers
+Movie Collections,Deadpool Collection,tmdbCollection,448150,Deadpool Collection,Current TMDB collection identifiers
+Movie Collections,X-Men,tmdbCollection,748,X-Men Collection,Current TMDB collection identifiers
+Movie Collections,xXx,tmdbCollection,52785,xXx Collection,Current TMDB collection identifiers
+Movie Collections,Zombieland Collection,tmdbCollection,537982,Zombieland Collection,Existing native sources retained
+Movie Collections,Zoolander,tmdbCollection,352789,Zoolander Collection,Current TMDB collection identifiers
+Kids and Family,Discover Family,tmdbDiscover,"[16, 10751]",Top Rated Animated Family Films,Existing native sources retained
+Kids and Family,Discover Family,tmdbDiscover,[10762],Popular Kids Shows,Existing native sources retained
+Kids and Family,Discover Family,tmdbDiscover,[10751],New Family Films,Existing native sources retained
+Kids and Family,Discover Family,tmdbDiscover,[10751],Family Movie Night All-Stars,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],Pixar Animation Classics,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],Walt Disney Animation Gems,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],DreamWorks Heavyweights,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],Sony Pictures Animation Hits,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],Studio Ghibli Family Films,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,[16],Aardman & Claymation Gems,Existing native sources retained
+Kids and Family,Animated Studio Spotlight,tmdbDiscover,"[16, 10751]",Stop-Motion Treasures,Existing native sources retained
+Kids and Family,Family Movie Night,tmdbDiscover,[10751],Iconic Family Classics,Existing native sources retained
+Kids and Family,Family Movie Night,tmdbDiscover,"[10751, 14]",Magical Fantasy Adventures,Existing native sources retained
+Kids and Family,Family Movie Night,tmdbDiscover,"[10751, 35]",Family Comedies,Existing native sources retained
+Kids and Family,Family Movie Night,tmdbDiscover,"[10751, 12]",Top Rated Family Adventures,Existing native sources retained
+Kids and Family,Family Movie Night,tmdbDiscover,[10751],New Family Movie Releases,Existing native sources retained
+Kids and Family,Saturday Morning & Nostalgic Cartoons,tmdbDiscover,"[16, 10762]",Iconic 90s Cartoons,Existing native sources retained
+Kids and Family,Saturday Morning & Nostalgic Cartoons,tmdbDiscover,"[16, 10762]",2000s Animated Hits,Existing native sources retained
+Kids and Family,Saturday Morning & Nostalgic Cartoons,tmdbDiscover,[56],Cartoon Network Classics,Existing native sources retained
+Kids and Family,Saturday Morning & Nostalgic Cartoons,tmdbDiscover,[13],Nicktoons,Existing native sources retained
+Kids and Family,Saturday Morning & Nostalgic Cartoons,tmdbDiscover,"[16, 10762]",Classic Cartoons of the Golden Age,Existing native sources retained
+Kids and Family,"Preschool, Toddlers & Little Kids",tmdbDiscover,[10762],Preschool Favorites,Existing native sources retained
+Kids and Family,"Preschool, Toddlers & Little Kids",tmdbDiscover,[10762],Top Rated Little-Kid Shows,Existing native sources retained
+Kids and Family,"Preschool, Toddlers & Little Kids",tmdbDiscover,"[16, 10751]",Storybook & Talking-Animal Movies,Existing native sources retained
+Kids and Family,Disney Channel & Family TV Series,tmdbDiscover,[44],Disney XD Action & Comedy,Existing native sources retained
+Kids and Family,Disney Channel & Family TV Series,tmdbDiscover,[13],Nickelodeon Teen Comedies,Existing native sources retained
+Kids and Family,Disney Channel & Family TV Series,tmdbDiscover,"[10751, 35]",Wholesome Family Sitcoms,Existing native sources retained
+Kids and Family,Disney Channel & Family TV Series,tmdbDiscover,"[10762, 9648]",Teen Fantasy & Mystery,Existing native sources retained
+Kids and Family,Disney Channel & Family TV Series,tmdbDiscover,[10751],New Family Series,Existing native sources retained
+Genres,Action,tmdbDiscover,[28],Action Movies,Native TMDB genre discovery
+Genres,Action,tmdbDiscover,[10759],Action Series,Native TMDB genre discovery
+Genres,Adventure,tmdbDiscover,[12],Adventure Movies,Native TMDB genre discovery
+Genres,Adventure,tmdbDiscover,[10759],Adventure Series,Native TMDB genre discovery
+Genres,Comedy,tmdbDiscover,[35],Comedy Movies,Native TMDB genre discovery
+Genres,Comedy,tmdbDiscover,[35],Comedy Series,Native TMDB genre discovery
+Genres,Crime,tmdbDiscover,[80],Crime Movies,Native TMDB genre discovery
+Genres,Crime,tmdbDiscover,[80],Crime Series,Native TMDB genre discovery
+Genres,Documentary,tmdbDiscover,[99],Documentary Movies,Native TMDB genre discovery
+Genres,Documentary,tmdbDiscover,[99],Documentary Series,Native TMDB genre discovery
+Genres,Drama,tmdbDiscover,[18],Drama Movies,Native TMDB genre discovery
+Genres,Drama,tmdbDiscover,[18],Drama Series,Native TMDB genre discovery
+Genres,Family,tmdbDiscover,[10751],Family Movies,Native TMDB genre discovery
+Genres,Family,tmdbDiscover,[10751],Family Series,Native TMDB genre discovery
+Genres,Fantasy,tmdbDiscover,[10765],Sci-Fi & Fantasy,Existing native sources retained
+Genres,Fantasy,tmdbDiscover,[10765],Sci-Fi & Fantasy,Existing native sources retained
+Genres,Fantasy,tmdbDiscover,[10765],Sci-Fi & Fantasy,Existing native sources retained
+Genres,Fantasy,tmdbDiscover,[10765],Sci-Fi & Fantasy,Existing native sources retained
+Genres,History,tmdbDiscover,[36],History Movies,Native TMDB genre discovery
+Genres,Horror,tmdbDiscover,[27],Horror Movies,Native TMDB genre discovery
+Genres,Martial Arts,tmdbDiscover,[],New Movies,Existing native sources retained
+Genres,Martial Arts,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Martial Arts,tmdbDiscover,[],Popular Movies,Existing native sources retained
+Genres,Martial Arts,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Martial Arts,tmdbDiscover,[],Top All Time Movies,Existing native sources retained
+Genres,Martial Arts,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[10402],Music,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[10402],Music,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[10402],Music,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[10402],Music,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[],Popular Musicals,Existing native sources retained
+Genres,Music / Musical,tmdbDiscover,[],Top Musicals,Existing native sources retained
+Genres,Mystery,tmdbDiscover,[9648],Mystery Movies,Native TMDB genre discovery
+Genres,Mystery,tmdbDiscover,[9648],Mystery Series,Native TMDB genre discovery
+Genres,Romance,tmdbDiscover,[10749],Romance Movies,Native TMDB genre discovery
+Genres,Romantic Comedy,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Romantic Comedy,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Romantic Comedy,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Romantic Comedy,tmdbDiscover,[],Top of the Year Series,Existing native sources retained
+Genres,Science Fiction,tmdbDiscover,[878],Science Fiction Movies,Native TMDB genre discovery
+Genres,Science Fiction,tmdbDiscover,[10765],Science Fiction Series,Native TMDB genre discovery
+Genres,Sports,tmdbDiscover,[],New Movies,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],Popular Movies,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],Top All Time Movies,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Sports,tmdbDiscover,[],Top of the Year Movies,Existing native sources retained
+Genres,Stand-Up Comedy,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Stand-Up Comedy,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Stand-Up Comedy,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Superhero,tmdbDiscover,[],New Series,Existing native sources retained
+Genres,Superhero,tmdbDiscover,[],Popular Series,Existing native sources retained
+Genres,Superhero,tmdbDiscover,[],Top All Time Series,Existing native sources retained
+Genres,Superhero,tmdbDiscover,[],Top of the Year Series,Existing native sources retained
+Genres,Thriller,tmdbDiscover,[53],Thriller Movies,Native TMDB genre discovery
+Genres,War,tmdbDiscover,[10752],War Movies,Native TMDB genre discovery
+Genres,War,tmdbDiscover,[10768],War Series,Native TMDB genre discovery
+Genres,Western,tmdbDiscover,[37],Western,Existing native sources retained
+Genres,Western,tmdbDiscover,[37],Western,Existing native sources retained
+Genres,Western,tmdbDiscover,[37],Western,Existing native sources retained
+Genres,Western,tmdbDiscover,[37],Western,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,"[35, 10749]",Live-Action Romantic Comedies,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,"[35, 18]",Heartwarming TV Comedies & Dramas,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,[10749],Romance,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,"[35, 18]",Acclaimed Feel-Good Classics,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,"[16, 10751]",Cozy Animated Favorites,Existing native sources retained
+Moods & Vibes,Cozy & Comforting,tmdbDiscover,"[35, 10749]",Recent Cozy Releases,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,"[878, 53]",Mind-Bending Sci-Fi Thrillers,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,[9648],Mystery,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,"[53, 9648]",Twist Endings & Unpredictable,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,[],Time Loops & Alternate Realities,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,"[53, 18]",Top Rated Psychological Thrillers,Existing native sources retained
+Moods & Vibes,Mind-Bending,tmdbDiscover,[878],Sci-Fi,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,[28],Action,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,[],Survival & Heist Movies,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,[10759],Action & Adventure,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,[],Martial Arts & Combat,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,[28],Action,Existing native sources retained
+Moods & Vibes,Adrenaline Rush,tmdbDiscover,"[28, 53]",Recent High-Octane Releases,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,"[36, 10752]",Historical & War Epics,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,"[14, 12]",Grand Fantasy Epics,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,"[10765, 18]",Epic Scale TV Sagas,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,[878],Sci-Fi,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,[12],Adventure,Existing native sources retained
+Moods & Vibes,Epic & Sweeping,tmdbDiscover,[12],Adventure,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,"[35, 18]",Uplifting & Inspiring Movies,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,[35],Comedy,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,[18],Drama,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,[35],Comedy,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,[35],Comedy,Existing native sources retained
+Moods & Vibes,Feel-Good,tmdbDiscover,"[35, 10751]",Recent Feel-Good Releases,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,"[9648, 18]",Atmospheric Mystery Slow Burns,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,"[18, 9648]",Haunting Slow Burn TV,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,[],Neo-Noir & Moody Crime,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,[18],Drama,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,"[18, 9648]",Top Rated Atmospheric Masterpieces,Existing native sources retained
+Moods & Vibes,Slow Burn,tmdbDiscover,"[18, 9648]",Recent Slow Burn Releases,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,"[18, 10749]",Acclaimed Tearjerker Movies,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,[18],Drama,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,"[10749, 18]",Romantic Heartbreaks,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,[18],Drama,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,[18],Drama,Existing native sources retained
+Moods & Vibes,Tearjerkers,tmdbDiscover,"[18, 10749]",Recent Emotional Releases,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,[],Iconic 80s Blockbusters,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,[],Iconic 90s Blockbusters,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,[28],Action,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,[35],Comedy,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,"[10765, 9648]",Retro Sci-Fi & Mystery TV,Existing native sources retained
+Moods & Vibes,80s & 90s Vibes,tmdbDiscover,[],90s Cult & Indie Hits,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,[80],Crime,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,"[80, 18]",Intense Dark TV Series,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,[],Anti-Hero & Revenge Stories,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,[],Dystopian & Post-Apocalyptic,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,"[80, 53]",Top Rated Gritty Crime,Existing native sources retained
+Moods & Vibes,Dark & Gritty,tmdbDiscover,"[80, 53]",Recent Dark & Gritty Releases,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[27],Horror,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[],Creepy Paranormal TV Series,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[27],Horror,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[27],Horror,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[27],Horror,Existing native sources retained
+Moods & Vibes,Spooky & Creepy,tmdbDiscover,[27],Horror,Existing native sources retained
