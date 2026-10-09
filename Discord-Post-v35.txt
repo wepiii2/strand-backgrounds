@@ -7,10 +7,10 @@ Choose the Focus or Full-screen shelf template. The artwork uses GitHub links, a
 Shelf templates, formatter and examples:
 https://wepiii2.github.io/strand-backgrounds/public-shelves.html
 
-Focus shelf download:
+Import shelves to Strand — Focused hero:
 https://wepiii2.github.io/strand-backgrounds/public-shelves.html#focus-art
 
-Full-screen shelf download:
+Import shelves to Strand — Full-screen hero:
 https://wepiii2.github.io/strand-backgrounds/public-shelves.html#full-art
 
 Gallery:
