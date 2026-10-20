@@ -860,13 +860,13 @@
     "group": "Studios",
     "title": "Pixar",
     "id": "29E9B8B8-58E6-4BEF-A5FE-3B6687C37858",
-    "sourceURL": null,
-    "sourceCredit": "User-provided Pixar artwork",
+    "sourceURL": "https://assets.proof.pub/2056/firstround/L4tHyaZQM2KXSacCHJHU_Pixar.jpg",
+    "sourceCredit": "Pixar character artwork, cleaner source via First Round Review",
     "focusFile": "focus/29e9b8b8-58e6-4bef-a5fe-3b6687c37858.jpg",
     "fullFile": "full/29e9b8b8-58e6-4bef-a5fe-3b6687c37858.jpg",
     "logoSourceURL": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/fc2efd90d710767a5fc6d48688df7fbd08b363f4/collections/companies/3-pixar/logos/white/3_color_1.png",
-    "focusSHA256": "d78ddbca9bc44177bf912f6a222a7c9ed05698d1a06a1e7de53042cf4cb30190",
-    "fullSHA256": "fcffc48effeac16f63a6735d98d2b9ce23a64d8986194e33c851d203b341eb74"
+    "focusSHA256": "a687e3efd8914a159c5983328634b077f952df167e00923b26e952697436e5de",
+    "fullSHA256": "0c813c71bf47795091a442ec0cb7c9e9b9c8ab9e613c7cb60b0c0221be0485fb"
   },
   {
     "group": "Studios",
